@@ -1,0 +1,31 @@
+---
+title: "Short Pieces on Reviewing"
+author: website-chairs
+author_profile: false
+tags:
+  announcement publicity
+categories:
+  blog
+---
+The four categories of acceptable papers
+
+A review form will often ask you two things: is the paper sound, and is the paper impactful? These are phrased as separate questions. I argue that there are at least four ways for a paper to have impact, and that the type of impact changes how you should judge soundness.
+
+In addition to the authors, the main audience for a review is the area chair. The area chair's job is to decide which papers of about 15-20 they would like to advocate for to the committee that actually makes decisions. How can you, as a reviewer, make this process faster and more efficient? You need to know how an area chair will use your review to make a case for a paper.
+
+Quick guide:
+- Is this something people want to know?
+- Will the system be used?
+- Will the paper change other people's direction?
+- Will this be the paper people talk about in the hall?
+
+What a lot of newer reviewers don't realize is that there are multiple types of "acceptable" papers: papers that an area chair is willing to recommend, and recommend in a way that is compelling to the senior committee. You assume that all papers are ranked on the same quality scale, and the best ones get in. I noticed a long time ago that students applying to college think this way too: you just have to be the perfect student, and you'll get in. But when you listen to admissions officers, they don't talk about admitting students individually, they talk about "putting together a class". It's the same with a conference. You don't want to accept 300 variations of the same paper, even if it's done really well.
+
+Conferences want a variety of topics, but they also want a variety of impacts. To help the area chair write a meta review, you need to make it clear what type of impact the paper is likely to have, and evaluate it in a way that is appropriate. Here are some archetypes of papers that have impact in different ways:
+
+- The Cliffhanger. Given what has worked in the past, there's an obvious next step. So what's the answer? Publishing the result will put everyone else one step ahead. This is the most common type of paper that we tend to accept. It's also the least likely to have lasting impact, but it has real impact right now. Since a lot of people might see the same opportunity, and it's not that different from what we already know how to do, the bar is high in terms of execution. Evaluations should be complete, details should be spelled out. We all know it's best to write the "first" paper or the "last" paper on a subject, but someone has to write the papers in the middle. What the area chair wants to know is, is this paper going to advance the field to the next step? Is this something people want to know?
+- The Screwdriver. It may be more or less glamorous, but it's useful, and every reader will at least consider using it and citing it. The biggest citation monsters tend to be Screwdrivers. Think ADAM or AdaGrad, or an evaluation benchmark like SQUAD. Here the reproducibility and robustness have to be even stronger than a Cliffhanger. If the point is that it be useful, it has to be usable. What the area chair wants to know is, is this something that will make future work better? You can have the strongest evaluation in the world, but if it's not solving a problem that people face in a way that they can access and would choose over alternatives, it's not going to have impact.
+- The Stone in the Pond. You heaved a stone into a pond. Splash! Then watch the ripples go out, and bounce back. The impact of this paper is bigger than the stone itself. The critical question here is not whether every detail is fully developed, but whether the paper has the potential to trigger a lot of other work as a result. One thing I see almost every time I area-chair is a Pond Stone paper being evaluated as a Cliffhanger or a Screwdriver. These papers are often radically new directions where we don't necessarily have a lot of comparisons and we don't necessarily know exactly how to evaluate them. But they're still valuable in that they push people to consider new directions. The other pathology I see with this type of paper is reviewers who expect the Stone to include all of its ripples. If a paper initiates a radically new approach, it's unlikely that it will answer every question in 9 pages, so if you don't feel that the work is complete, maybe that's the point. The value of a Stone in the Pond is the - Cliffhangers that it inspires, not just what it has in itself. The area chair wants to know whether this paper will change what readers do next.
+- The Salt. By weight, a very small part of any meal is salt, but leave it out and you'll notice that everything tastes flat. In the same way, every conference needs some papers that are profound, or evoke a sense of awe, or are just fun. These are the papers that fill a room, that people circle on their conference schedules, that people tell their family about when they ask "so what is it you do again?". Like the Stone in the Pond, these papers are not always methodologically innovative and may not have bulletproof evaluation. But honestly, how many papers about the latest neural network trick or improvement on a standard evaluation can you stand before you just want to go see something about generating haikus? These are the papers that give a conference texture and memorability. The question the area chair wants to know is not will people use it, or will people extend it, but will people talk about it in the hall?
+
+Once you can see the varieties of impact, it becomes more clear what types of critiques are most useful in determining if the paper under review actually matches one of these. I'm not saying that all submissions are one of these -- plenty of papers don't succeed in matching any of them. It's that all submissions that I want to see accepted should most likely fit one or more.

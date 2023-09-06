@@ -1,0 +1,9 @@
+{
+    "order_file": "agenda/data/order/manually_combined_order",
+    "mapping_file": "agenda/data/mapping/manually_combined_id_map.txt",
+    "xml_file": "agenda/data/xml/N19.xml",
+    "extra_metadata_file": "agenda/data/extra-metadata/main.tsv",
+    "plenary_info_file": "agenda/data/plenary-info.tsv",
+    "pdf_icons": true,
+    "video_icons": false
+}

@@ -1,0 +1,159 @@
+# main links
+#in masthead.html
+main:
+
+  #- title: "Schedule"
+  #  url: /schedule/
+
+  #- title: "LiveCaptions"
+  #  url: /captions/
+
+  #- title: "Virtual Conference Website"
+  #  url: "https://underline.io/events/122/reception"
+  
+  #- title: "Proceedings"
+  #  url: "https://aclanthology.org/events/emnlp-2022/"
+    
+  #- title: "Program"
+  #  url: /program/
+
+  #- title: "Registration"
+  #  url: /registration/
+
+  #- title: "Calls"
+  #  url: /calls/main_conference_papers/
+    
+  #- title: "Blog"
+  #  url: /blog/
+      
+  - title: "Committees"
+    url: /organization
+  
+  #- title: "Sponsors"
+  #  url: /sponsors/
+  
+  #- title: "Contact"
+  #  url: /contact 
+    
+  #- title: "Volunteers"
+  #  url: /volunteers 
+  
+  #- title: "Venue"
+  #  url: /venue
+
+  #- title: "Reviewer"
+  #  url: /not_available
+
+  #- title: "Participants Info"
+  #  url: /participants/anti_harassment/
+
+  #- title: "FAQ"
+  #  url: /faq/
+ 
+  #- title: "Ethics"
+  #  url: /ethics/faq/
+
+
+#program:
+#  - title: Program Details
+#    children:
+#      - title: "Conference Program"
+#        url: /program/
+#      - title: "Keynote"
+#        url: /program/keynotes/
+#      - title: "Workshops"
+#        url: /program/workshops/
+#      - title: "Tutorials"
+#        url: /program/tutorials/
+#      - title: "Careers in NLP"
+#        url: /program/careers_in_nlp/
+#      - title: "Social Programs"
+#        url: /program/social/
+#       - title: "Careers in NLP Panel"
+#         url: /program/careerspanel/
+
+# sponsors:
+#   - title: Sponsors
+#     children:
+#       - title: "Booklet: Rates &amp; Benefits"
+#         url: /sponsors/booklet/
+#      - title: "List of Sponsors"
+#        url: /sponsors/list/
+
+#calls:
+#  - title: "Call for"
+#    children:
+#      - title: "Main Conference Papers"
+#        url: /calls/main_conference_papers/
+#      - title: "System Demonstrations"
+#        url: /calls/System_Demonstrations/
+#      - title: "Industry Track Papers"
+#        url: /calls/industry_track/
+#      - title: "Style Files and Formatting"
+#        url: /calls/style-and-formatting/
+#       - title: "Volunteers"
+#         url: /calls/volunteers/
+        
+  
+  #- title: Submission Material
+  #  children:
+  #    - title: "Area Descriptions"
+  #      url: /calls/area-descriptions/
+  #    - title: "Style Files and Formatting"
+  #      url: /calls/style-and-formatting/
+  #    - title: "Reproducibility Checklist"
+  #      url: /calls/reproducibility-checklist/
+  #- title: Archived calls
+  #  children:
+  #    - title: "First Call for Papers"
+  #      url: /calls/papers/first/
+  #    - title: "Preliminary Call for Papers"
+  #      url: /calls/papers/prelim/
+
+#ethics:
+#  - title: Ethics
+#    children:
+#      - title: "Ethics FAQ"
+#        url: /ethics/faq/
+#      - title: "Ethics Review Questions"
+#        url: /ethics/review-questions/
+#      - title: "Ethics Committee"
+#        url: /ethics/committee/
+
+#reviewer:
+#  - title: Reviewer
+#    children:
+#      - title: "Reviewer Instructions"
+    #    url: /reviewer/instructions/
+    #  - title: "Example Review Form"
+    #    url: /downloads/NAACL2021-Review-Form.pdf
+    #  - title: "Reviewing Advice"
+    #    url: /reviewer/advice/
+
+#participants:
+#  - title: "Information for Participants"
+#    children:
+#      - title: "Anti-harassment"
+#        url: /participants/anti_harassment/
+#      - title: "COVID-19 Safety at EMNLP 2022"
+#        url: /participants/covid_19_safety/
+     # - title: "Instructions for Paper Presenters"
+     #   url: /participants/presenters/
+     # - title: "Instructions for Zoom Rooms"
+     #   url: /participants/zoom-rooms/
+     #  - title: "Accommodation"
+     #    url: /participants/accommodation/
+     #  - title: "Social Event"
+     #    url: /participants/social/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      #- title: "Senior Program Committee"
+      #  url: /committees/program/
+      #- title: "Ethics Committee"
+      #  url: /ethics/committee/
+      #- title: "Diversity & Inclusion Committee"
+      #  url: /committees/diversity-inclusion/

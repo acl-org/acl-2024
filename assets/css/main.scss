@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$link-color: #2020df;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// overriding the color of the splash image caption
+.page__hero {
+  &--overlay {
+    .page__title {
+       font-size: 38px;
+       color: #fff;
+       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 2px 2px 4px black;
+    }
+    .page__lead {
+       font-size: 30px;
+       color: #fff;
+       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 2px 2px 4px black;
+
+    }
+  }
+}

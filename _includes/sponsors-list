@@ -1,0 +1,43 @@
+{% if include.id %}
+  {% assign gallery = page[include.id] %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+{% if include.layout %}
+  {% assign gallery_layout = include.layout %}
+{% else %}
+  {% if gallery.size == 2 %}
+    {% assign gallery_layout = 'half' %}
+  {% elsif gallery.size >= 3 %}
+    {% assign gallery_layout = 'third' %}
+  {% else %}
+    {% assign gallery_layout = '' %}
+  {% endif %}
+{% endif %}
+
+<figure class="sponsors-list {{ gallery_layout }} {{ include.class }}">
+  {% for img in gallery %}
+    <a
+      {% if img.url contains "://" %}
+        href="{{ img.url }}"
+      {% elsif img.url %}
+        href="{{ img.url | relative_url }}"
+      {% endif %}
+      {% if img.title %}title="{{ img.title }}"{% endif %}
+    >
+      <div class="dummy-padding"></div>
+      {% if img.image_path %}
+        <img src=
+          {% if img.image_path contains "://" %}
+            "{{ img.image_path }}"
+          {% else %}
+            "{{ img.image_path | relative_url }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      {% else %}
+        {% if img.alt %}{{ img.alt }}{% endif %}
+      {% endif %}
+    </a>
+  {% endfor %}
+</figure>
