@@ -105,7 +105,7 @@ name="Leonardo Ribeiro"
 picture="/assets/images/committee/leonardo_ribeiro.png"
 site="https://leoribeiro.github.io/"
 institution="Amazon Alexa Seattle"
-email = "leonardofribeiro@gmail.com"
+email = "leonribe@amazon.com,leonardofribeiro@gmail.com"
 %}
 
 <h2>Demonstration Chairs</h2>
