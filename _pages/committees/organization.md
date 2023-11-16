@@ -89,7 +89,7 @@ name="Luis Chiruzzo"
 picture="/assets/images/committee/luis_chiruzzo.jpeg"
 site="https://scholar.google.com/citations?user=C7c4uCsAAAAJ&hl=es"
 institution="Universidad de la República"
-email = "luis.chiruzzo@gmail.com"
+email = "luis.chiruzzo@gmail.com,luischir@fing.edu.uy"
 %}
 
 {% include committee-member.html

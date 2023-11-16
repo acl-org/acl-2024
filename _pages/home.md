@@ -3,10 +3,15 @@ title: "The 62nd Annual Meeting of the Association for Computational Linguistics
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/bangkok/bangkok.jpg"
-  caption: 'Photo by <a href="https://unsplash.com/@kanapppol">Kanapol Vorapoo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "Bangkok, Thailand<br>August 12&ndash;17, 2024"
+  overlay_image: "/assets/images/bangkok/bangkok-banner.jpeg"
+  caption: 'Photo by <a href="https://www.istockphoto.com/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E-gm619764040-108168277?phrase=bangkok">boykpc</a> on <a href="http://www.istockphoto.com">iStock</a>'
+excerpt: "Bangkok, Thailand<br>August 11&ndash;16, 2024"
 ---
+
+## Welcome!
+
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.
+More information will be announced soon.
 
 ## News
 
@@ -91,7 +96,12 @@ The [**Conference Program Schedule**](/program/) is now online.
 !-->
 
 
+
 ## Important Dates
+
+Tutorials | Sunday | August 11, 2024 |
+Main Conference | Monday – Wednesday | August 12 – 14, 2024 |
+Workshop | Thursday - Friday | August 15 -16, 2024 |
 
 <style>
 .dates-table { font-size: .9em; }
@@ -100,13 +110,10 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Conference date | Monday – Saturday | August 12 – 17, 2024 |
+
 {: .dates-table}
-
-<!--
+<br>
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
-!-->
 
-## Welcome!
 
-ACL 2024 will take place in Bangkok, Thailand from **August 12th to 17th, 2024**.
+
