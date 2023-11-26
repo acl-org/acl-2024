@@ -10,7 +10,7 @@ sidebar:
 <h2>List of Tutorials</h2>
 The following tutorials have been accepted for ACL 2024. <br>
 <small>More information will be updated soon</small>
-<br><br><br>
+<br><br>
 
 **AI for Science in the Era of Large Language Models**<br>
   <i>Zhenyu Bi, Minghao Xu, Jian Tang and Xuan Wang </i>

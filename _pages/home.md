@@ -62,24 +62,13 @@ and the pre-recorded talks for authors who opted in will be uploaded to the ACL 
 The [**Conference Program Schedule**](/program/) is now online.
 {: .text-center .notice--info} -->
 
-<!-- <style>
+<style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-
-| June 18, 2021 | Blogpost by D&I chairs: [Increasing Financial Accessibility in NAACL](/blog/dni-subsidies).
-| June 8, 2021 | Congratulations to the winners of the [Best Demo Award](/blog/best-demo-award)!
-| June 8, 2021 | Congratulations to the winners of the [Best Industry Paper Award](/blog/best-industry-paper)!
-| June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
-| June 4, 2021 | Added [instructions for presenters](/participants/presenters/) and [Zoom rooms instructions](/participants/zoom-rooms/)
-| June 3, 2021 | Details about the [Startups in NLP](/blog/startups-in-nlp) industry panel.
-| June 3, 2021 | Updates from the program chairs on the [paper review process](/blog/paper-review-process) and [ethics-review-process](/blog/ethics-review-process).
-| June 2, 2021 | Congratulations to the winners of the [Best Paper Awards](/blog/best-paper-awards)!
-| June 2, 2021 | Blogpost by D&I chairs: [NAACL Mentoring Sessions](/blog/mentoring/)
-| June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
-| June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
-| May 31, 2021 | Event annoucements by D&I chairs: [Mexican Cultural Events](/blog/mexican-event), [Intersectionality in NLP](/blog/intersectionality-panel), [Inclusivity in Conferences](/blog/inclusivity-panel), [Getting into NLP research and grad school applications](/blog/grad-school-panel/)
-{: .news-table} -->
+| Nov 24, 2023 | The list of accepted workshops and tutorials have been posted.
+| Oct 25, 2023 | The official ACL 2024 website is launched.
+{: .news-table}
 
 <!-- [Older News](/archive/){: .btn .btn--info}
 {: .text-center} -->
@@ -115,5 +104,15 @@ Workshop | Thursday - Friday | August 15 -16, 2024 |
 <br>
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 
-
-
+<!--
+| June 18, 2021 | Blogpost by D&I chairs: [Increasing Financial Accessibility in NAACL](/blog/dni-subsidies).
+| June 8, 2021 | Congratulations to the winners of the [Best Demo Award](/blog/best-demo-award)!
+| June 8, 2021 | Congratulations to the winners of the [Best Industry Paper Award](/blog/best-industry-paper)!
+| June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
+| June 4, 2021 | Added [instructions for presenters](/participants/presenters/) and [Zoom rooms instructions](/participants/zoom-rooms/)
+| June 3, 2021 | Details about the [Startups in NLP](/blog/startups-in-nlp) industry panel.
+| June 3, 2021 | Updates from the program chairs on the [paper review process](/blog/paper-review-process) and [ethics-review-process](/blog/ethics-review-process).
+| June 2, 2021 | Congratulations to the winners of the [Best Paper Awards](/blog/best-paper-awards)!
+| June 2, 2021 | Blogpost by D&I chairs: [NAACL Mentoring Sessions](/blog/mentoring/)
+| June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
+-->

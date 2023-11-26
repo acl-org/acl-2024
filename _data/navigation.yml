@@ -61,8 +61,8 @@ program:
         url: /program/
 #      - title: "Keynote"
 #        url: /program/keynotes/
-#      - title: "Workshops"
-#        url: /program/workshops/
+      - title: "Workshops"
+        url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
 #      - title: "Careers in NLP"
