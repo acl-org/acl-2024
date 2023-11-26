@@ -260,6 +260,22 @@ institution="Adobe Research"
 email = "garimell@adobe.com"
 %}
 
+{% include committee-member.html
+name="Steven Wilson"
+picture="/assets/images/committee/steven_wilson.jpeg"
+site="https://steverw.com/"
+institution="Oakland University"
+email = "stevenwilson@oakland.edu"
+%}
+
+{% include committee-member.html
+name="Lin Gui"
+picture="/assets/images/committee/lin_gui.webp"
+site="https://www.kcl.ac.uk/people/lin-gui"
+institution="King's College London"
+email = "lin.1.gui@kcl.ac.uk"
+%}
+
 <h2>Ethic Committee</h2>
 {% include committee-member.html
 name="Alice Oh"
