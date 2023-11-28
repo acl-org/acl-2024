@@ -14,13 +14,11 @@ The following workshops have been accepted for ACL 2024. <br>
 
 **The 11th Workshop on Argument Mining**<br>
   <i><u>Location :</u> WORLD BALLROOM B </i>
-* [Bharathi Raja Chakravarthi](mailto:bharathiraja.akr@gmail.com), School of Computer Science, University of Galway, Ireland
-* [Ruba Priyadharshini](mailto:rubapriyadharshini.a@gmail.com), Gandhigram Rural Institute-Deemed to be university, India 
-* [Anand Kumar M](mailto:m_anandkumar@nitk.edu.in), National Institute of Technology Karnataka Surathkal, India  
-* [Sajeetha Thavareesan](mailto:sajeethas@esn.ac.lk), Eastern University, Sri Lanka
-* [Elizabeth Sherly](mailto:sherly@iiitmk.ac.in), Digital University Kerala, India
-* [Rajeswari Natarajan](mailto:rajeswari.natarajan@gmail.com), SASTRA University, India
-* [Manikandan Ravikiran](mailto:manikandan.ravikiran@gmail.com), Hitachi India Pvt Ltd. 
+* Yamen Ajjour, Leibniz University Hannover, Germany
+* Roy Bar-Haim, IBM Research, Israel
+* Roxanne El Baff, German Aerospace Center (DLR) and Bauhaus-Universität, Germany
+* Zhexiong Liu, University of Pittsburgh, USA
+* Gabriella Skitalinskaya, Leibniz University Hannover, Germany
 
 **The Sixth Workshop on Teaching Natural Language Processing** [<br>
 <i><u>Location :</u> LOTUS SUITE 5-6 </i>
@@ -132,7 +130,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Abeed Sarker](mailto:abeed.sarker@emory.edu), Emory University
 * [Davy Weissenbacher](mailto:Davy.Weissenbacher@cshs.org), Cedars-Sinai Medical Center
 
-**Human-Centered Large Language Modeling workshop **<br>
+**Human-Centered Large Language Modeling workshop**<br>
 <i><u>Location :</u> LOTUS SUITE 15 </i>
 * [Nikita Soni](mailto:nisoni@cs.stonybrook.edu), Stony Brook University
 * [Lucie Flek](mailto:flek@bit.uni-bonn.de), University of Bonn
