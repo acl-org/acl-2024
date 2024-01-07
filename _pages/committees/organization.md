@@ -319,6 +319,15 @@ institution="University of Applied Science, Darmstadt"
 email = "margot.mieskes@h-da.de"
 %}
 
+
+{% include committee-member.html
+name="Hao Fei"
+picture="/assets/images/committee/hao_fei.jpg"
+site="http://haofei.vip/"
+institution="National University of Singapore"
+email = "haofei37@nus.edu.sg"
+%}
+
 <h2>Virtual Infrastructure</h2>
 {% include committee-member.html
 name="Gözde Gül"
