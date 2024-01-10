@@ -10,34 +10,33 @@ main:
 
   #- title: "Virtual Conference Website"
   #  url: "https://underline.io/events/122/reception"
-  
+
   #- title: "Proceedings"
   #  url: "https://aclanthology.org/events/emnlp-2022/"
-    
+  - title: "Calls"
+    url: /calls/main_conference_papers/
+
   - title: "Program"
     url: /program/
 
   #- title: "Registration"
   #  url: /registration/
 
-  #- title: "Calls"
-  #  url: /calls/main_conference_papers/
-    
   #- title: "Blog"
   #  url: /blog/
-      
+
   - title: "Committees"
     url: /organization
-  
+
   #- title: "Sponsors"
   #  url: /sponsors/
-  
+
   #- title: "Contact"
-  #  url: /contact 
-    
+  #  url: /contact
+
   #- title: "Volunteers"
   #  url: /volunteers 
-  
+
   #- title: "Venue"
   #  url: /venue
 
@@ -49,7 +48,7 @@ main:
 
   #- title: "FAQ"
   #  url: /faq/
- 
+
   #- title: "Ethics"
   #  url: /ethics/faq/
 
@@ -80,11 +79,11 @@ program:
 #      - title: "List of Sponsors"
 #        url: /sponsors/list/
 
-#calls:
-#  - title: "Call for"
-#    children:
-#      - title: "Main Conference Papers"
-#        url: /calls/main_conference_papers/
+calls:
+  - title: "Call for"
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
 #      - title: "System Demonstrations"
 #        url: /calls/System_Demonstrations/
 #      - title: "Industry Track Papers"
@@ -93,8 +92,8 @@ program:
 #        url: /calls/style-and-formatting/
 #       - title: "Volunteers"
 #         url: /calls/volunteers/
-        
-  
+
+
   #- title: Submission Material
   #  children:
   #    - title: "Area Descriptions"
