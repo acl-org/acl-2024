@@ -66,6 +66,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Giulia Rambelli](mailto:giulia.rambelli4@unibo.it), University of Bologna
 * [Ece Takmaz](mailto:ece.takmaz@uva.nl), University of Amsterdam
 * [Yohei Oseki](mailto:oseki@g.ecc.u-tokyo.ac.jp), University of Tokyo
+* [Philipp Wicke](mailto:pwicke@cis.uni-muenchen.de), Ludwig Maximilian University
 
 **ML4AL: The Machine Learning for Ancient Languages Workshop**<br>
 <i><u>Location :</u> LOTUS SUITE 14 </i>
