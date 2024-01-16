@@ -355,7 +355,7 @@ email = "krachada@tu.ac.th, rdkpansy@gmail.com"
 
 <h2>Website and Conference App</h2>
 {% include committee-member.html
-name="Yun-Nung (Vivian)"
+name="Yun-Nung (Vivian) Chen"
 picture="/assets/images/committee/yun_nung.jpeg"
 site="https://www.csie.ntu.edu.tw/~yvchen/"
 institution="National Taiwan University"
