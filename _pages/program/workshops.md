@@ -40,7 +40,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [David Alfter](mailto:david.alfter@svenska.gu.se), University of Gothenburg
 * [Simon Hengchen](mailto:simon.hengchen@gu.se), Iguanodon.ai
 
-**The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages**<br>
+**The Fifth Workshop on Privacy in NLP**<br>
 <i><u>Location :</u> LOTUS SUITE 8 </i>
 * [Oluwaseyi Feyisetan](mailto:sey@amazon.com), Amazon, USA
 * [Sepideh Ghanavati](mailto:sepideh.ghanavati@maine.edu), University of Maine, USA
@@ -66,6 +66,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Giulia Rambelli](mailto:giulia.rambelli4@unibo.it), University of Bologna
 * [Ece Takmaz](mailto:ece.takmaz@uva.nl), University of Amsterdam
 * [Yohei Oseki](mailto:oseki@g.ecc.u-tokyo.ac.jp), University of Tokyo
+* [Philipp Wicke](mailto:pwicke@cis.uni-muenchen.de),LMU Munich
 
 **ML4AL: The Machine Learning for Ancient Languages Workshop**<br>
 <i><u>Location :</u> LOTUS SUITE 14 </i>
@@ -190,13 +191,14 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Yoav Goldberg](mailto:yoav.goldberg@gmail.com), Bar Ilan University and the Allen Institute for Artificial Intelligence
 * [Yanai Elazar](mailto:yanaiela@gmail.com), Allen Institute for Artificial Intelligence and University of Washington
 
-**SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics**<br>
+**[SpLU-RoboNLP: The Fourth International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics](https://splu-robonlp-2024.github.io)**<br>
 <i><u>Location :</u> LOTUS SUITE 4 </i>
 * [Parisa Kordjamshidi](mailto:kordjams@msu.edu), Michigan State University
 * [Malihe Alikhani](mailto:m.alikhani@northeastern.edu), Northeastern University
 * [Xin Eric Wang](mailto:xwang366@ucsc.edu),  UC Santa Cruz
 * [Yue Zhang](mailto:zhan1624@msu.edu), Michigan State University
 * [Ziqiao Ma](mailto:marstin@umich.edu), University of Michigan
+* [Inan Mert](), Northeastern University
 
 **Workshop on Gender Bias in Natural Language Processing**<br>
 <i><u>Location :</u> LOTUS SUITE 7 </i>

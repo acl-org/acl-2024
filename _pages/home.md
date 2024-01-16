@@ -66,7 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Jan 16, 2024 | [Call for Main Conference Papers](/program) is posted.
+| Jan 16, 2024 | [Call for Main Conference Papers](/calls/main_conference_papers) is posted.
 | Nov 24, 2023 | The list of accepted workshops and tutorials have been posted.
 | Oct 25, 2023 | The official ACL 2024 website is launched.
 {: .news-table}
