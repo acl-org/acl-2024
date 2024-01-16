@@ -220,7 +220,7 @@ email = "colombo.pierre@gmail.com"
 
 {% include committee-member.html
 name="Loic Barrault"
-picture="/assets/images/committee/loicbarrault.png"
+picture="/assets/images/committee/leonardo_ribeiro.png"
 site="https://loicbarrault.github.io/"
 institution="Meta AI"
 email = "loicbarrault@meta.com"
