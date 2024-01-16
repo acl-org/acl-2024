@@ -40,7 +40,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [David Alfter](mailto:david.alfter@svenska.gu.se), University of Gothenburg
 * [Simon Hengchen](mailto:simon.hengchen@gu.se), Iguanodon.ai
 
-**The Seventh Workshop on The Use of Computational Methods in the Study of Endangered Languages**<br>
+**The Fifth Workshop on Privacy in NLP**<br>
 <i><u>Location :</u> LOTUS SUITE 8 </i>
 * [Oluwaseyi Feyisetan](mailto:sey@amazon.com), Amazon, USA
 * [Sepideh Ghanavati](mailto:sepideh.ghanavati@maine.edu), University of Maine, USA
