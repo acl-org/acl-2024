@@ -13,7 +13,7 @@ toc_sticky: True
 **Submission Deadline:** 15 February 2024 (February ARR cycle) <br>
 **Conference Dates:** August 11-16 2024 <br>
 **Location:** Bangkok, Thailand <br>
-**Theme:** "Open science, open data, and open models for reproducible NLP research" <br>
+**Special Theme:** "Open science, open data, and open models for reproducible NLP research" <br>
 **Contact:**
 - Claire Gardent (General Chair)
 - Lun-Wei Ku, André Martins, Vivek Srikumar (Program Chairs):
@@ -23,25 +23,29 @@ For questions related to paper submission, email: [editors@aclrollingreview.org]
 For all other questions, email: [acl2024-programchairs@googlegroups.com](mailto:acl2024-programchairs@googlegroups.com).
 </small>
 
+## Call for Main Conference Papers
+
 ACL 2024 invites the submission of long and short papers featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and by the Computational Linguistics
 (CL) journals.
 
 Papers submitted to ACL 2024, but not selected for the main conference, will also automatically be considered for publication in the Findings of the Association of Computational Linguistics.
 
 ## Important Dates
-All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-Anonymity period: Follow the ARR CFP guidelines regarding the anonymity policy.
+**Anonymity period:** ACL changed its policy for review and citation on January 12, 2022 [https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation).  As a result, no anonymity period will be required for papers submitted for the Feb. 1, 2024 TACL deadline or the Feb. 15, 2024 ARR deadline [https://aclrollingreview.org/dates](https://aclrollingreview.org/dates). The submissions themselves must still be fully anonymized.
+
+Please see [https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) for details.
+
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 80em; }
 .news-table { font-size: .9em; table-layout: fixed;}
 /*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
-| February 15, 2024 | Submission deadline (all papers are submitted to ARR)
+| Submission deadline (all papers are submitted to ARR) | February 15, 2024
 {: .news-table}
-Papers submitted to ARR no later than February 15, 2023 will have reviews and meta-reviews by April 15, 2024, in time for the ACL 2024 commitment deadline (see below). At submission time to ARR, authors will be asked to select one preferred venue to calculate the acceptance rate. However, selecting ACL 2024 as a preferred venue does not require authors to commit to ACL 2024.
+Papers submitted to ARR no later than February 15, 2024 will have reviews and meta-reviews by April 15, 2024, in time for the ACL 2024 commitment deadline (see below). At submission time to ARR, authors will be asked to select one preferred venue to calculate the acceptance rate. However, selecting ACL 2024 as a preferred venue does not require authors to commit to ACL 2024.
 <style>
 .news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }
@@ -49,8 +53,8 @@ Papers submitted to ARR no later than February 15, 2023 will have reviews and me
 /*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
-| April 15, 2024 | ARR reviews & meta-reviews available to authors of February cycle
-| April 20, 2024 | Commitment deadline for ACL 2024
+| ARR reviews & meta-reviews available to authors of February cycle | April 15, 2024 
+| Commitment deadline for ACL 2024 | April 20, 2024
 {: .news-table}
 Deadline for authors to commit their reviewed papers, reviews, and meta-review to ACL 2024. It is not necessary to have selected ACL as a preferred venue during submission.
 <style>
@@ -60,13 +64,15 @@ Deadline for authors to commit their reviewed papers, reviews, and meta-review t
 /*.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }*/
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
-| May 15, 2024 | Notification of acceptance
-| June 5, 2024 | Withdrawal deadline
-| June 5, 2024 | Camera-ready papers due
-| August 11, 2024| Tutorials
-| August 12-14, 2024 | Conference
-| August 15-16, 2024 | Workshops
+| Notification of acceptance | May 15, 2024
+| Withdrawal deadline | June 5, 2024
+| Camera-ready papers due | June 5, 2024
+| Tutorials | August 11, 2024
+| Conference | August 12-14, 2024
+| Workshops | August 15-16, 2024
 {: .news-table}
+
+All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 ## Submission Topics 
 
@@ -112,7 +118,8 @@ Both long and short paper submissions should follow all of the ARR submission re
 - Limitations
 - Paper Submission and Templates
 - Optional Supplementary Materials
-- Papers should be submitted to one of the ARR 2023 submission sites.
+
+Papers should be submitted to one of the ARR 2023 submission sites.
 
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
 

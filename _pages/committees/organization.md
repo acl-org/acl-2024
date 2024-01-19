@@ -13,16 +13,21 @@ sidebar:
    picture="/assets/images/committee/Claire_Gardent.jpg"
    site="https://members.loria.fr/CGardent/"
    institution="LORIA, CNRS and Université de Lorraine"
-   email = "claire.gardent@loria.fr"
+   email = ""
 %}
 
 <h2>Program Chairs </h2>
+<small>
+**For questions related to paper submission, email:** editors@aclrollingreview.org <br>
+**For all other questions, email:** acl2024-programchairs@googlegroups.com <br>
+</small>
+
 {% include committee-member.html
    name="Lun-Wei Ku"
    picture="/assets/images/committee/Lun-Wei_Ku.jpg"
    site="https://homepage.iis.sinica.edu.tw/pages/lwku/index_en.html"
    institution="Academia Sinica"
-   email = "lwku@iis.sinica.edu.tw"
+   email = ""
 %}
 
 {% include committee-member.html
@@ -30,7 +35,7 @@ sidebar:
    picture="/assets/images/committee/Andre_Martins.jpg"
    site="https://andre-martins.github.io/"
    institution="Instituto Superior Técnico / Instituto de Telecomunicações / Unbabel"
-   email = "andre.t.martins@tecnico.ulisboa.pt"
+   email = ""
 %}
 
 {% include committee-member.html
@@ -38,7 +43,7 @@ sidebar:
    picture="/assets/images/committee/Vivek_Srikumar.jpg"
    site="https://svivek.com/"
    institution=" University of Utah"
-   email = "svivek@cs.utah.edu"
+   email = ""
 %}
 
 <h2>Local Organization </h2>
@@ -47,7 +52,7 @@ name="Thepchai Supnithi"
 picture="/assets/images/committee/thepchai_supnithi.jpeg"
 site="https://www.nectec.or.th/hccru/staff/view/59"
 institution="NECTEC and AIAT"
-email = "thepchai.supnithi@nectec.or.th, thepchai@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -55,7 +60,7 @@ name="Prachya Bookwan"
 picture="/assets/images/committee/prachya_boonkwan.jpeg"
 site="https://www.nectec.or.th/hccru/staff/view/68"
 institution="NECTEC and AIAT"
-email = "prachya.boonkwan@nectec.or.th, kaamanita@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -63,7 +68,7 @@ name="Thanaruk Theeramunkong"
 picture="/assets/images/committee/person.png"
 site="https://www.siit.tu.ac.th/personnel.php?id=121"
 institution="NECTEC and AIAT"
-email = "thanaruk@siit.tu.ac.th"
+email = ""
 %}
 
 <h2>Workshop Chairs</h2>
@@ -72,7 +77,7 @@ name="Xipeng Qiu"
 picture="/assets/images/committee/xipeng_qiu.jpeg"
 site="https://xpqiu.github.io/en.html"
 institution="Fudan University"
-email = "xpqiu@fudan.edu.cn"
+email = ""
 %}
 
 {% include committee-member.html
@@ -80,7 +85,7 @@ name="Eunsol Choi"
 picture="/assets/images/committee/eunsol_choi.png"
 site="https://www.cs.utexas.edu/~eunsol/"
 institution="The University of Texas at Austin"
-email = "eunsol@utexas.edu"
+email = ""
 %}
 
 <h2>Tutorial Chairs</h2>
@@ -89,7 +94,7 @@ name="Luis Chiruzzo"
 picture="/assets/images/committee/luis_chiruzzo.jpeg"
 site="https://scholar.google.com/citations?user=C7c4uCsAAAAJ&hl=es"
 institution="Universidad de la República"
-email = "luis.chiruzzo@gmail.com,luischir@fing.edu.uy"
+email = ""
 %}
 
 {% include committee-member.html
@@ -105,7 +110,7 @@ name="Leonardo Ribeiro"
 picture="/assets/images/committee/leonardo_ribeiro.png"
 site="https://leoribeiro.github.io/"
 institution="Amazon Alexa Seattle"
-email = "leonribe@amazon.com,leonardofribeiro@gmail.com"
+email = ""
 %}
 
 <h2>Demonstration Chairs</h2>
@@ -114,7 +119,7 @@ name="Sun Aixin"
 picture="/assets/images/committee/sun_aixin.jpeg"
 site="https://personal.ntu.edu.sg/axsun/"
 institution="Nanyang Technological University"
-email = "AXSun@ntu.edu.sg"
+email = ""
 %}
 
 {% include committee-member.html
@@ -122,7 +127,7 @@ name="Yang Feng"
 picture="/assets/images/committee/yang_feng.jpeg"
 site="https://people.ucas.edu.cn/~yangfeng?language=en"
 institution="Chinese Academy of Science"
-email = "fengyang@ict.ac.cn"
+email = ""
 %}
 
 {% include committee-member.html
@@ -130,7 +135,7 @@ name="Deyi Xiong"
 picture="/assets/images/committee/deyi_xiong.jpeg"
 site="https://dyxiong.github.io/"
 institution="Tianjin University"
-email = "dyxiong@tju.edu.cn"
+email = ""
 %}
 
 <h2>Student Research</h2>
@@ -147,7 +152,7 @@ name="Eve Fleisig"
 picture="/assets/images/committee/eve_fleisig.webp"
 site="https://www.efleisig.com/"
 institution="UC Berkeley"
-email = "efleisig@berkeley.edu"
+email = ""
 %}
 
 <h2>Student Research: Faculty Advisor</h2>
@@ -156,7 +161,7 @@ name="Ekapol Chuangsuwanich"
 picture="/assets/images/committee/person.png"
 site=""
 institution="Chulalongkorn University"
-email = "Ekapol.c@chula.ac.th"
+email = ""
 %}
 
 {% include committee-member.html
@@ -164,7 +169,7 @@ name="Yuval Pinter"
 picture="/assets/images/committee/person.png"
 site="https://www.cs.bgu.ac.il/~pintery/"
 institution="Ben Gurion University"
-email = "pintery@bgu.ac.il"
+email = ""
 %}
 
 <h2>Publicity and Social Media Chairs</h2>
@@ -181,7 +186,7 @@ name="Jing Jiang"
 picture="/assets/images/committee/jing_jiang.jpeg"
 site="https://faculty.smu.edu.sg/profile/jing-jiang-636"
 institution="Singapore Management University"
-email = "jingjiang@smu.edu.sg"
+email = ""
 %}
 
 {% include committee-member.html
@@ -189,7 +194,7 @@ name="Dimitra Gkatzia"
 picture="/assets/images/committee/dimitra_gkatzia.jpeg"
 site="https://dimitragkatzia.wordpress.com/"
 institution="Napier University"
-email = "dgatzia@gmail.com"
+email = ""
 %}
 
 <h2>Publication Chairs</h2>
@@ -206,7 +211,7 @@ name="Bing Liu"
 picture="/assets/images/committee/bing_liu.jpeg"
 site="https://www.linkedin.com/in/vbingliu/"
 institution="Meta San Francisco"
-email = "v.bingliu@gmail.com"
+email = ""
 %}
 
 <h2>Handbook Chairs</h2>
@@ -215,15 +220,15 @@ name="Pierre Colombo"
 picture="/assets/images/committee/pierre_colombo.jpeg"
 site="https://pierrecolombo.github.io/"
 institution="Université Paris Saclay"
-email = "colombo.pierre@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
 name="Loic Barrault"
-picture="/assets/images/committee/alexis_conneau.jpeg"
-site="https://ai.facebook.com/people/alexis-conneau/"
-institution="Meta"
-email = "loicbarrault@meta.com"
+picture="/assets/images/committee/leonardo_ribeiro.png"
+site="https://loicbarrault.github.io/"
+institution="Meta AI"
+email = ""
 %}
 
 <h2>Technical Open Review</h2>
@@ -232,7 +237,7 @@ name="Taro Watanabe"
 picture="/assets/images/committee/taro_watanabe.jpeg"
 site="https://sites.google.com/site/tarowtnb/"
 institution="Nara Institute of Science and Technology (NAIST)"
-email = "taro@is.naist.jp"
+email = ""
 %}
 
 {% include committee-member.html
@@ -240,7 +245,7 @@ name="Thiago Castro"
 picture="/assets/images/committee/person.png"
 site="https://scholar.google.com.br/citations?user=WvXZlDIAAAAJ&hl=en"
 institution="Federal University of Minas Gerais"
-email = "thiago.castro.ferreira@gmail.com"
+email = ""
 %}
 
 <h2>Diversity and Inclusion</h2>
@@ -257,7 +262,7 @@ name="Aparna Garimella"
 picture="/assets/images/committee/aparna_garimella.jpeg"
 site="https://scholar.google.com/citations?user=Q4PJyXIAAAAJ&hl=en"
 institution="Adobe Research"
-email = "garimell@adobe.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -265,7 +270,7 @@ name="Steven Wilson"
 picture="/assets/images/committee/steven_wilson.jpeg"
 site="https://steverw.com/"
 institution="Oakland University"
-email = "stevenwilson@oakland.edu"
+email = ""
 %}
 
 {% include committee-member.html
@@ -282,7 +287,7 @@ name="Alice Oh"
 picture="/assets/images/committee/alice_oh.jpeg"
 site="https://aliceoh9.github.io"
 institution="KAIST"
-email = "alice.oh@kaist.edu"
+email = ""
 %}
 
 {% include committee-member.html
@@ -290,7 +295,7 @@ name="Aurélie Névéol"
 picture="/assets/images/committee/aurélie_névéol.jpeg"
 site="https://perso.limsi.fr/neveol/"
 institution="CNRS"
-email = "neveol@limsi.fr"
+email = ""
 %}
 
 <h2>Internal Communications</h2>
@@ -299,7 +304,7 @@ name="Claudia Borg"
 picture="/assets/images/committee/claudia_borg.jpeg"
 site="https://www.um.edu.mt/profile/claudiaborg"
 institution="University of Malta"
-email = "claudia.borg@um.edu.mt"
+email = ""
 %}
 
 {% include committee-member.html
@@ -307,7 +312,7 @@ name="Yannick Parmentier"
 picture="/assets/images/committee/person.png"
 site="https://sourcesup.renater.fr/www/tulipa/yannick"
 institution="University of Lorraine"
-email = "yannick.parmentier@loria.fr"
+email = ""
 %}
 
 <h2>Student Volunteer</h2>
@@ -334,7 +339,7 @@ name="Gözde Gül"
 picture="/assets/images/committee/gözde_gül.jpeg"
 site="https://gozdesahin.github.io/"
 institution="Koç University"
-email = "gosahin@ku.edu.tr"
+email = ""
 %}
 
 {% include committee-member.html
@@ -342,7 +347,7 @@ name="Gael Guibon"
 picture="/assets/images/committee/gael_guibon.jpeg"
 site="https://gguibon.github.io/"
 institution="University of Lorraine"
-email = "gael.guibon@loria.fr"
+email = ""
 %}
 
 {% include committee-member.html
@@ -350,16 +355,16 @@ name="Rachada Kongkrachantra"
 picture="/assets/images/committee/person.png"
 site="-"
 institution="Thammasat University"
-email = "krachada@tu.ac.th, rdkpansy@gmail.com"
+email = ""
 %}
 
 <h2>Website and Conference App</h2>
 {% include committee-member.html
-name="Yun-Nung (Vivian)"
+name="Yun-Nung (Vivian) Chen"
 picture="/assets/images/committee/yun_nung.jpeg"
 site="https://www.csie.ntu.edu.tw/~yvchen/"
 institution="National Taiwan University"
-email = "yvchen@csie.ntu.edu.tw"
+email = ""
 %}
 
 {% include committee-member.html
@@ -367,7 +372,7 @@ name="Vipas Sutantayawalee"
 picture="/assets/images/committee/vipas_sutantayawalee.jpg"
 site="-"
 institution="Promes Co., Ltd."
-email = "vipas.su@promes.co.th"
+email = ""
 %}
 
 <h2>Sponsorship Chairs</h2>
@@ -376,7 +381,7 @@ name="Lluis Marquez"
 picture="/assets/images/committee/person.png"
 site="https://www.amazon.science/author/lluis-marquez"
 institution="Amazon"
-email = "lluismv@amazon.es"
+email = ""
 %}
 
 {% include committee-member.html
@@ -384,7 +389,7 @@ name="Kobkrit Viriyayudhakorn"
 picture="/assets/images/committee/person.png"
 site="-"
 institution="iAPP Co., Ltd."
-email = "kobkrit@gmail.com"
+email = ""
 %}
 
 

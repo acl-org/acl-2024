@@ -20,7 +20,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * Zhexiong Liu, University of Pittsburgh, USA
 * Gabriella Skitalinskaya, Leibniz University Hannover, Germany
 
-**The Sixth Workshop on Teaching Natural Language Processing** [<br>
+**The Sixth Workshop on Teaching Natural Language Processing** <br>
 <i><u>Location :</u> LOTUS SUITE 5-6 </i>
 * [Margot Mieskes](mailto:margot.mieskes@h-da.de), University of Applied Sciences Darmstadt
 * [Leonie Weissweiler](mailto:weissweiler@cis.lmu.de), LMU Munich 
@@ -66,7 +66,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Giulia Rambelli](mailto:giulia.rambelli4@unibo.it), University of Bologna
 * [Ece Takmaz](mailto:ece.takmaz@uva.nl), University of Amsterdam
 * [Yohei Oseki](mailto:oseki@g.ecc.u-tokyo.ac.jp), University of Tokyo
-* [Philipp Wicke](mailto:pwicke@cis.uni-muenchen.de),LMU Munich
+* [Philipp Wicke](mailto:pwicke@cis.uni-muenchen.de), Ludwig Maximilian University
 
 **ML4AL: The Machine Learning for Ancient Languages Workshop**<br>
 <i><u>Location :</u> LOTUS SUITE 14 </i>
@@ -191,14 +191,14 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Yoav Goldberg](mailto:yoav.goldberg@gmail.com), Bar Ilan University and the Allen Institute for Artificial Intelligence
 * [Yanai Elazar](mailto:yanaiela@gmail.com), Allen Institute for Artificial Intelligence and University of Washington
 
-**[SpLU-RoboNLP: The Fourth International Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics](https://splu-robonlp-2024.github.io)**<br>
+[**SpLU-RoboNLP: Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics**](https://splu-robonlp-2024.github.io)<br>
 <i><u>Location :</u> LOTUS SUITE 4 </i>
 * [Parisa Kordjamshidi](mailto:kordjams@msu.edu), Michigan State University
 * [Malihe Alikhani](mailto:m.alikhani@northeastern.edu), Northeastern University
 * [Xin Eric Wang](mailto:xwang366@ucsc.edu),  UC Santa Cruz
 * [Yue Zhang](mailto:zhan1624@msu.edu), Michigan State University
 * [Ziqiao Ma](mailto:marstin@umich.edu), University of Michigan
-* [Inan Mert](), Northeastern University
+* [Mert İnan](mailto:inan.m@northeastern.edu), Northeastern University
 
 **Workshop on Gender Bias in Natural Language Processing**<br>
 <i><u>Location :</u> LOTUS SUITE 7 </i>
@@ -303,12 +303,12 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Kalyan Dutia](mailto:kalyan.dutia@gmail.com), Climate Policy Radar
 * [Mathias Kraus](mailto:mathias.kraus@fau.de), Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-**The 6th Workshop on NLP for Conversational AI**<br>
+[**The 6th Workshop on NLP for Conversational AI**](https://sites.google.com/view/6thnlp4convai) <br>
 <i><u>Location :</u> LOTUS SUITE 11 </i>
 * [Elnaz Nouri](mailto:elnaaz@gmail.com), Microsoft Research
 * [Abhinav Rastogi](mailto:abhirast@google.com), Google Research
 * [Georgios Spithourakis](mailto:geospith@gmail.com), Entrepreneur First
-* [Yun-Nung Chen](mailto:yvchen@csie.ntu.edu.tw), National Taiwan University
+* [Yun-Nung (Vivian) Chen](mailto:yvchen@csie.ntu.edu.tw), National Taiwan University
 * [Bing Liu](mailto:v.bingliu@gmail.com), Meta AI
 * [Yu Li](mailto:yl5016@columbia.edu), Columbia University
 * [Alon Albalak](mailto:alon_albalak@ucsb.edu), University of California, Santa Barbara
