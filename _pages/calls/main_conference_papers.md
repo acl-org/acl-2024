@@ -133,8 +133,4 @@ The theme track invites empirical and theoretical research, descriptions and rel
 - What kind of incentive mechanisms should be in place to encourage the creation by the research community of open, high-quality datasets and models and their adoption in experimental workflows?
 - What elements of open releases (e.g. documentation, cards, licensing, testing) are essential or should be highly recommended in order to be scientifically useful and adopted by the community?
 
-The theme track submissions can be either long or short. 
-
-Visit [https://2024.aclweb.org/calls/main_conference/](https://2024.aclweb.org/calls/main_conference/) for more details!
-
-Read more: [https://www.aclweb.org/portal/content/acl-2024-call-papers](https://www.aclweb.org/portal/content/acl-2024-call-papers) 
+The theme track submissions can be either long or short.
