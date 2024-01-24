@@ -84,8 +84,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
-#      - title: "System Demonstrations"
-#        url: /calls/System_Demonstrations/
+      - title: "Student Research Workshop"
+        url: /calls/student_research_workshop/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"
