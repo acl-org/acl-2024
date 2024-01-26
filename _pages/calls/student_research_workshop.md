@@ -37,11 +37,11 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 We invite papers in two different categories:
 
 - Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
-- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author MUST BE a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main ACL 2024 conference.
+- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main [ACL 2024 conference](https://2024.aclweb.org/).
 
 Submissions (in both categories) may be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2024 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
 
-The submission links are on our website. Please read the guidelines carefully.
+The submission links are on our [website](https://sites.google.com/view/acl-srw2024/home). Please read the guidelines carefully.
 
 ## Why Submit to ACL SRW?
 
@@ -74,7 +74,7 @@ Long papers consist of up to eight (8) pages of content, plus an unlimited numbe
 
 Short papers consist of up to four (4) pages of content, plus an unlimited number of pages for references and supplementary material like the appendix. Upon acceptance, papers will be given one additional page of content (up to 5 pages).
 
-Authors are encouraged to use the additional page to address reviewers’ comments. Paper submissions must use the official ACL style templates, which are available as an Overleaf template and also downloadable directly (Latex and Word). We strongly encourage participants to use the Latex template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. The review process will be double-blind, and thus all submissions must be anonymized.
+Authors are encouraged to use the additional page to address reviewers’ comments. Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and also [downloadable directly](https://github.com/acl-org/ACLPUB/tree/master/templates) (Latex and Word). We strongly encourage participants to use the Latex template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. The review process will be double-blind, and thus all submissions must be anonymized.
 
 The SRW invites papers on topics related to computational linguistics, including but not limited to the following:
 
@@ -104,7 +104,7 @@ The SRW invites papers on topics related to computational linguistics, including
 We expect to have grants to offset some portion of students’ travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website as they become available.
 
 ## Student Research Workshop Chairs
-Contact: acl.2024.srw@gmail.com
+Contact: [acl.2024.srw@gmail.com](mailto:acl.2024.srw@gmail.com)
 
 - Xiyan Fu, Heidelberg University (Germany)
 - Eve Fleisig, UC Berkeley (USA)
