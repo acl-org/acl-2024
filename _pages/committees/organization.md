@@ -225,7 +225,7 @@ email = ""
 
 {% include committee-member.html
 name="Loic Barrault"
-picture="/assets/images/committee/leonardo_ribeiro.png"
+picture="/assets/images/committee/loic_barrault.png"
 site="https://loicbarrault.github.io/"
 institution="Meta AI"
 email = ""
