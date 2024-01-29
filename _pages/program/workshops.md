@@ -246,8 +246,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Eunsol Choi](mailto:eunsol@utexas.edu), UT Austin
 * [Mor Geva](mailto:pipek@google.com), Google Deepmind/Tel Aviv University
 * [Peter Hase](mailto:peter@cs.unc.edu), UNC
-* [Heng Ji, UIUC](mailto:hengji@illinois.edu)
-
+* [Heng Ji](mailto:hengji@illinois.edu), UIUC & & Amazon Scholar
 **The 4th Wordplay: When Language Meets Games Workshop**<br>
 <i><u>Location :</u> WORLD BALLROOM C </i>
 * [Prithviraj Ammanabrolu](mailto:prithvi@ucsd.edu), UCSD
