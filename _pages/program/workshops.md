@@ -101,7 +101,7 @@ The following workshops have been accepted for ACL 2024. <br>
 
 **Language + Molecules**<br>
 <i><u>Location :</u> LOTUS SUITE 11 </i>
-* [Heng Ji](mailto:hengji@illinois.edu), UIUC
+* [Heng Ji](mailto:hengji@illinois.edu), UIUC & Amazon Scholar
 * [Carl Edwards](mailto:cne2@illinois.edu), UIUC
 * [Tom Hope](mailto:tomh@allenai.org), AI2 HUJI
 * [Manling Li](mailto:manlingl@stanford.edu), Stanford Northwestern
