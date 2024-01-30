@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Jan 31, 2024 | [Call for System Demonstration](/calls/system_demonstration) is posted.
 | Jan 24, 2024 | [Call for Student Research Workshop](/calls/student_research_workshop) is posted.
 | Jan 19, 2024 | [Call for Main Conference Papers](/calls/main_conference_papers) is posted.
 | Nov 24, 2023 | The list of accepted workshops and tutorials have been posted.
