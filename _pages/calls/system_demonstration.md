@@ -53,8 +53,9 @@ We will present a Best Demo Paper Award. The winner will be chosen based on the 
 ## Submission Guideline
 
 <span style="color:red">
-Information about the submission platform will be provided later. Please check the call for system demonstrations and the ACL 2024 website for updates. We apologize for any inconvenience this may cause and appreciate your understanding.
+Submission link has been posted. Please submit all required materials at this [link](https://openreview.net/group?id=aclweb.org/ACL/2024/System_Demonstration_Track).
 </span>
+
 
 Submissions must include the following:
 
