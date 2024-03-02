@@ -37,8 +37,8 @@ main:
   #- title: "Volunteers"
   #  url: /volunteers 
 
-  #- title: "Venue"
-  #  url: /venue
+  - title: "Venue"
+    url: /venue/
 
   #- title: "Reviewer"
   #  url: /not_available
@@ -158,3 +158,19 @@ committees:
       #  url: /ethics/committee/
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
+      -
+venue:
+  - title: "Information for"
+    children:
+      - title: "Venue"
+        url: /venue/
+      - title: "Visa"
+        url: /venue/visa/
+      - title: "Travel"
+        url: /venue/travel/
+#      - title: "Industry Track Papers"
+#        url: /calls/industry_track/
+#      - title: "Style Files and Formatting"
+#        url: /calls/style-and-formatting/
+#      - title: "Volunteers"
+#        url: /calls/volunteers/

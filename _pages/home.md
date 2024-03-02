@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Mar 3, 2024 | The information about venue and visa details have been posted.
 | Feb 26, 2024 | Submission link for [Call for System Demonstration](/calls/system_demonstration) is posted.
 | Jan 31, 2024 | [Call for System Demonstration](/calls/system_demonstration) is posted.
 | Jan 24, 2024 | [Call for Student Research Workshop](/calls/student_research_workshop) is posted.
