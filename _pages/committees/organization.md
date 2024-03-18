@@ -371,7 +371,7 @@ email = ""
 name="Vipas Sutantayawalee"
 picture="/assets/images/committee/vipas_sutantayawalee.jpg"
 site="-"
-institution="Promes Co., Ltd."
+institution=""
 email = ""
 %}
 
