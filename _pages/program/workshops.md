@@ -50,7 +50,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Patricia Thaine](mailto:patricia@private-ai.com), Private AI, Canada
 * [Abhilasha Ravichander](mailto:abhilashar@allenai.org), Allen Institute for Artificial Intelligence
 
-**Natural Language Reasoning and Structured Explanations**<br>
+[**Natural Language Reasoning and Structured Explanations**](https://nl-reasoning-workshop.github.io/)<br>
 <i><u>Location :</u> WORLD BALLROOM A </i>
 * [Bhavana Dalvi](mailto:bhavanad@allenai.org), AI2
 * [Greg Durrett](mailto:gdurrett@cs.utexas.edu), UT Austin
@@ -239,7 +239,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [William Yang Wang](mailto:william@cs.ucsb.edu), UC Santa Barbara
 * [Xin Eric Wang](mailto:xwang366@ucsc.edu), UC Santa Cruz
 
-**Towards Knowledgeable Language Models**<br>
+[**Towards Knowledgeable Language Models**](https://knowledgeable-lm.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 9 </i>
 * [Zoey Sha Li](mailto:shal2@illinois.edu), UIUC
 * [Manling Li](mailto:manling.li@northwestern.edu), Northwestern University
