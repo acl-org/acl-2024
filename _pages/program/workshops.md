@@ -13,7 +13,6 @@ The following workshops have been accepted for ACL 2024. <br>
 <h2>August 15, 2024</h2>
 
 [**The 11th Workshop on Argument Mining**](https://argmining-org.github.io/2024/)<br>
-**The 11th Workshop on Argument Mining**<br>
   <i><u>Location :</u> WORLD BALLROOM B </i>
 * Yamen Ajjour, Leibniz University Hannover, Germany
 * Roy Bar-Haim, IBM Research, Israel
@@ -109,7 +108,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Qingyun Wang](mailto:qingyun4@illinois.edu), UIUC
 * [Lawrence Zhao](mailto:larry.zhao@yale.edu), Yale
 
-[**The Seventh Workshop on Technologies for Machine Translation of Low Resource Languages**](https://sigturk.com/workshop)<br>
+[**The Seventh Workshop on Technologies for Machine Translation of Low Resource Languages**](https://www.loresmt.org/)<br>
 <i><u>Location :</u> LOTUS SUITE 1-2 </i>
 * [Atul Kr. Ojha](mailto:shashwatup9k@gmail.com), University of Galway
 * [Chao-Hong Liu](mailto:ch.liu@acm.org), Potamu Research
