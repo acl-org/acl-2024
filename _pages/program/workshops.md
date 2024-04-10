@@ -131,7 +131,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Abeed Sarker](mailto:abeed.sarker@emory.edu), Emory University
 * [Davy Weissenbacher](mailto:Davy.Weissenbacher@cshs.org), Cedars-Sinai Medical Center
 
-**Human-Centered Large Language Modeling workshop**<br>
+[**Human-Centered Large Language Modeling Workshop**](https://hucllm-workshop.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 15 </i>
 * [Nikita Soni](mailto:nisoni@cs.stonybrook.edu), Stony Brook University
 * [Lucie Flek](mailto:flek@bit.uni-bonn.de), University of Bonn
