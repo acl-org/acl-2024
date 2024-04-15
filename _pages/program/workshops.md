@@ -12,7 +12,7 @@ The following workshops have been accepted for ACL 2024. <br>
 <br>
 <h2>August 15, 2024</h2>
 
-**The 11th Workshop on Argument Mining**<br>
+[**The 11th Workshop on Argument Mining**](https://argmining-org.github.io/2024/)<br>
   <i><u>Location :</u> WORLD BALLROOM B </i>
 * Yamen Ajjour, Leibniz University Hannover, Germany
 * Roy Bar-Haim, IBM Research, Israel
@@ -29,7 +29,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [György Kovács](mailto:gyorgy.kovacs@ltu.se), Luleå University of Technology
 * [Sana al-Azzawi](mailto:sana.al-azzawi@ltu.se), Luleå University of Technology
 
-**The 5th International Workshop on Computational Approaches to Historical Language Change**<br>
+[**The 5th International Workshop on Computational Approaches to Historical Language Change**](https://www.changeiskey.org/event/2024-acl-lchange/)<br>
 <i><u>Location :</u> LOTUS SUITE 12 </i>
 * [Nina Tahmasebi](mailto:nina.tahmasebi@gu.se), University of Gothenburg
 * [Syrielle Montariol,EPFL](mailto:syrielle.montariol@gmail.com)
@@ -40,7 +40,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [David Alfter](mailto:david.alfter@svenska.gu.se), University of Gothenburg
 * [Simon Hengchen](mailto:simon.hengchen@gu.se), Iguanodon.ai
 
-**The Fifth Workshop on Privacy in NLP**<br>
+[**The Fifth Workshop on Privacy in NLP**](https://sites.google.com/view/privatenlp/)<br>
 <i><u>Location :</u> LOTUS SUITE 8 </i>
 * [Oluwaseyi Feyisetan](mailto:sey@amazon.com), Amazon, USA
 * [Sepideh Ghanavati](mailto:sepideh.ghanavati@maine.edu), University of Maine, USA
@@ -49,7 +49,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Patricia Thaine](mailto:patricia@private-ai.com), Private AI, Canada
 * [Abhilasha Ravichander](mailto:abhilashar@allenai.org), Allen Institute for Artificial Intelligence
 
-**Natural Language Reasoning and Structured Explanations**<br>
+[**Natural Language Reasoning and Structured Explanations**](https://nl-reasoning-workshop.github.io/)<br>
 <i><u>Location :</u> WORLD BALLROOM A </i>
 * [Bhavana Dalvi](mailto:bhavanad@allenai.org), AI2
 * [Greg Durrett](mailto:gdurrett@cs.utexas.edu), UT Austin
@@ -60,7 +60,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Wenting Zhao](mailto:wzhao@cs.cornell.edu), Cornell
 * [Ben Lipkin](mailto:lipkinb@mit.edu), MIT
 
-**Cognitive Modeling and Computational Linguistics**<br>
+[**Cognitive Modeling and Computational Linguistics**](https://cmclorg.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 9 </i>
 * [Tatsuki Kuribayashi](mailto:tatsuki.kuribayashi@mbzuai.ac.ae), MBZUAI
 * [Giulia Rambelli](mailto:giulia.rambelli4@unibo.it), University of Bologna
@@ -68,7 +68,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Yohei Oseki](mailto:oseki@g.ecc.u-tokyo.ac.jp), University of Tokyo
 * [Philipp Wicke](mailto:pwicke@cis.uni-muenchen.de), Ludwig Maximilian University
 
-**ML4AL: The Machine Learning for Ancient Languages Workshop**<br>
+[**ML4AL: The Machine Learning for Ancient Languages Workshop**](https://www.ml4al.com)<br>
 <i><u>Location :</u> LOTUS SUITE 14 </i>
 * [John Pavlopoulos](mailto:annis@aueb.gr), Athens University of Economics and Business, Greece
 * [Thea Sommerschield](mailto:thea.sommerschield@unive.it), Ca’Foscari University of Venice, Italy
@@ -80,7 +80,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Shai Gordon](mailto:shaigo@ariel.ac.il), Ariel University, Israel
 * [Adam Anderson](mailto:adamganderson@gmail.com), University of California, Berkeley, U.S.A.
 
-**TextGraphs-17: Graph-based Methods for Natural Language Processing**<br>
+[**TextGraphs-17: Graph-based Methods for Natural Language Processing**](https://sites.google.com/view/textgraphs2024)<br>
 <i><u>Location :</u> LOTUS SUITE 13 </i>
 * [Dmitry Ustalov](mailto:dmitry.ustalov@gmail.com), JetBrains
 * [Alexander Panchenko](mailto:panchenko.alexander@gmail.com), Skoltech
@@ -99,7 +99,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Sameer Singh](mailto:sameer@uci.edu), University of California, Irvine
 * [Gerard de Melo](mailto:demelo@uni-potsdam.de), Hasso Plattner Institute, University of Potsdam
 
-**Language + Molecules**<br>
+[**Language + Molecules**](https://language-plus-molecules.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 11 </i>
 * [Heng Ji](mailto:hengji@illinois.edu), UIUC & Amazon Scholar
 * [Carl Edwards](mailto:cne2@illinois.edu), UIUC
@@ -108,7 +108,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Qingyun Wang](mailto:qingyun4@illinois.edu), UIUC
 * [Lawrence Zhao](mailto:larry.zhao@yale.edu), Yale
 
-**The Seventh Workshop on Technologies for Machine Translation of Low Resource Languages**<br>
+[**The Seventh Workshop on Technologies for Machine Translation of Low Resource Languages**](https://www.loresmt.org/)<br>
 <i><u>Location :</u> LOTUS SUITE 1-2 </i>
 * [Atul Kr. Ojha](mailto:shashwatup9k@gmail.com), University of Galway
 * [Chao-Hong Liu](mailto:ch.liu@acm.org), Potamu Research
@@ -120,7 +120,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Tommi A Pirinen](mailto:tommi.pirinen@uit.no), University of Hamburg
 * [Varvara Logacheva](mailto:varvara.logacheva@gmail.com), Huawei
 
-**The 9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks**<br>
+[**The 9th Social Media Mining for Health Research and Applications Workshop and Shared Tasks**](https://healthlanguageprocessing.org/smm4h-2024/)<br>
 <i><u>Location :</u> LOTUS SUITE 7 </i>
 * [Graciela Gonzalez-Hernandez](mailto:graciela.gonzalezhernandez@csmc.edu), Cedars-Sinai Medical Center
 * [Dongfang Xu](mailto:dongfang.xu@cshs.org), Cedars-Sinai Medical Center
@@ -131,7 +131,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Abeed Sarker](mailto:abeed.sarker@emory.edu), Emory University
 * [Davy Weissenbacher](mailto:Davy.Weissenbacher@cshs.org), Cedars-Sinai Medical Center
 
-**Human-Centered Large Language Modeling workshop**<br>
+[**Human-Centered Large Language Modeling Workshop**](https://hucllm-workshop.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 15 </i>
 * [Nikita Soni](mailto:nisoni@cs.stonybrook.edu), Stony Brook University
 * [Lucie Flek](mailto:flek@bit.uni-bonn.de), University of Bonn
@@ -140,7 +140,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Sara Hooker](mailto:sarahooker@cohere.com), Cohere
 * [Andrew Schwartz](mailto:has@cs.stonybrook.edu), Stony Brook University
 
-**The 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis**<br>
+[**The 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis**](https://workshop-wassa.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 4 </i>
 * [Orphée De Clercq](mailto:orphee.declercq@ugent.be), LT3 Ghent University
 * [Valentin Barriere](mailto:valentin.barriere@cenia.cl), Universidad de Chile
@@ -149,7 +149,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [João Sedoc](mailto:joao.sedoc@gmail.com), New York University
 * [Shabnam Tafreshi](mailto:stafresh@umd.edu), University of Maryland
 
-**The 9th Workshop on Representation Learning for NLP**<br>
+[**The 9th Workshop on Representation Learning for NLP**](https://sites.google.com/view/repl4nlp2024)<br>
 <i><u>Location :</u> WORLD BALLROOM C </i>
 * [Pepa Atanasova](mailto:pepa@di.ku.dk), University of Copenhagen 
 * [Maha Elbayad](mailto:elbayadm@meta.com), Meta 
@@ -173,7 +173,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Hannaneh Hajishirzi](mailto:hannaneh@cs.washington.edu), University of Washington
 * [Luke Zettlemoyer](mailto:lsz@cs.washington.edu), University of Washington
 
-**BioNLP 2024 and Shared Tasks**<br>
+[**BioNLP 2024 and Shared Tasks**](https://aclweb.org/aclwiki/BioNLP_Workshop)<br>
 <i><u>Location :</u> LOTUS SUITE 12 </i>
 * [Dina Demner-Fushman](mailto:ddemner@gmail.com), NLM
 * [Sophia Ananiadou](mailto:sophia.ananiadou@manchester.ac.uk), The University of Manchester 
@@ -181,7 +181,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Makoto Miwa](mailto:makoto-miwa@toyota-ti.ac.jp), Toyota Technological Institute 
 * [Jun'ichi Tsujii](mailto:j-tsujii@aist.go.jp), AIST
 
-**Workshop on Data Contamination**<br>
+[**Workshop on Data Contamination**](https://conda-workshop.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 13 </i>
 * [Oscar Sainz](mailto:oscar.sainz@ehu.eus), University of the Basque Country ](UPV/EHU)
 * [Iker García Ferrero](mailto:iker.garciaf@ehu.eus), University of the Basque Country ](UPV/EHU)
@@ -200,7 +200,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ziqiao Ma](mailto:marstin@umich.edu), University of Michigan
 * [Mert İnan](mailto:inan.m@northeastern.edu), Northeastern University
 
-**Workshop on Gender Bias in Natural Language Processing**<br>
+[**Workshop on Gender Bias in Natural Language Processing**](https://genderbiasnlp.talp.cat/)<br>
 <i><u>Location :</u> LOTUS SUITE 7 </i>
 * [Christine Basta](mailto:christine.raouf88@gmail.com),Alexandria University
 * [Debora Nozza](mailto:debora.nozza@unibocconi.it), Bocconi University
@@ -208,7 +208,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Seraphina Goldfarb-Tarrant](mailto:seraphinatarrant@gmail.com), Cohere
 * [Marta R. Costa-jussà](mailto:costajussa@meta.com), Meta AI
 
-**Cross-Cultural Considerations in NLP**<br>
+[**Cross-Cultural Considerations in NLP**](https://sites.google.com/view/c3nlp)<br>
 <i><u>Location :</u> LOTUS SUITE 14 </i>
 * [Vinodkumar Prabhakaran](mailto:vinodkpg@google.com), Google
 * [Sunipa Dev](mailto:sunipadev@google.com), Google
@@ -219,7 +219,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ife Adebara](mailto:ife.adebara@ubc.ca), UBC
 * [Yong Cao](mailto:yongcao_epic@hust.edu.cn), HUST
 
-**The 4th Workshop on Scholarly Document Processing**<br>
+[**The 4th Workshop on Scholarly Document Processing**](https://sdproc.org/2024/)<br>
 <i><u>Location :</u> LOTUS SUITE 15 </i>
 * [Tirthankar Ghosal](mailto:ghosalt@ornl.gov)
 * [Philipp Mayr](mailto:philipp.mayr@gesis.org)
@@ -230,7 +230,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Orion Weller](mailto:oweller@cs.jhu.edu)
 * [Yanxia Qin](mailto:qolina@gmail.com)
 
-**The 3rd Workshop on Advances in Language and Vision Research**<br>
+[**The 3rd Workshop on Advances in Language and Vision Research**](https://alvr-workshop.github.io/)<br>
 <i><u>Location :</u> WORLD BALLROOM A </i>
 * [Jing Gu](mailto:jgu110@ucsc.edu), UC Santa Cruz
 * [Drew A. Hudson](mailto:dorarad@cs.stanford.edu), Stanford University
@@ -238,7 +238,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [William Yang Wang](mailto:william@cs.ucsb.edu), UC Santa Barbara
 * [Xin Eric Wang](mailto:xwang366@ucsc.edu), UC Santa Cruz
 
-**Towards Knowledgeable Language Models**<br>
+[**Towards Knowledgeable Language Models**](https://knowledgeable-lm.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 9 </i>
 * [Zoey Sha Li](mailto:shal2@illinois.edu), UIUC
 * [Manling Li](mailto:manling.li@northwestern.edu), Northwestern University
@@ -247,7 +247,8 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Mor Geva](mailto:pipek@google.com), Google Deepmind/Tel Aviv University
 * [Peter Hase](mailto:peter@cs.unc.edu), UNC
 * [Heng Ji](mailto:hengji@illinois.edu), UIUC & & Amazon Scholar
-**The 4th Wordplay: When Language Meets Games Workshop**<br>
+
+[**The 4th Wordplay: When Language Meets Games Workshop**](https://wordplay-workshop.github.io/)<br>
 <i><u>Location :</u> WORLD BALLROOM C </i>
 * [Prithviraj Ammanabrolu](mailto:prithvi@ucsd.edu), UCSD
 * [Marc-Alexandre Côté](mailto:macote@microsoft.com), Microsoft Research
@@ -268,7 +269,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ruifeng Xu](mailto:xuruifeng@hit.edu.cn), Harbin Institute of Technology, Shenzhen   
 * [Lin Gui](mailto:Lin.1.gui@kcl.ac.uk), King’s College London
 
-**Field Matters. The Third Workshop on NLP Applications to Field Linguistics**<br>
+[**Field Matters. The Third Workshop on NLP Applications to Field Linguistics**](https://field-matters.github.io/2024)<br>
 <i><u>Location :</u> LOTUS SUITE 8 </i>
 * [Oleg Serikov](mailto:oleg.serikov@kaust.edu.sa), KAUST
 * [Elena Klyachko](mailto:elenaklyachko@gmail.com), HSE University
@@ -278,7 +279,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ekaterina Voloshina](mailto:voloshina.e.yu@gmail.com), HSE University
 * [Anna Postnikova](mailto:anna.postn90@gmail.com)
 
-**The Second Arabic Natural Language Processing Conference ](ArabicNLP 2024)**<br>
+[**ArabicNLP: The Second Arabic Natural Language Processing Conference**](https://arabicnlp2024.sigarab.org/)<br>
 <i><u>Location :</u> LOTUS SUITE 5-6 </i>
 * [Nizar Habash](mailto:nizar.habash@nyu.edu), NYU Abu Dhabi
 * [Mona Diab](mailto:mtdiab@gmail.com), CMU
@@ -287,7 +288,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Dr. Ahmed Abdelali](mailto:aabdelali@hbku.edu.qa), HBKU
 * [Salam Khalifa](mailto:salam.khalifa@stonybrook.edu), Stony Brook U
 
-**Natural Language Processing meets Climate Change**<br>
+[**Natural Language Processing meets Climate Change**](https://nlp4climate.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 3 </i>
 * [Dominik Stammbach](mailto:dominsta@ethz.ch), ETH Zurich
 * [Jingwei Ni](mailto:jingweini8_at_gmail.com), ETH Zurich
@@ -313,7 +314,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Alon Albalak](mailto:alon_albalak@ucsb.edu), University of California, Santa Barbara
 * [Alexandros Papangelis](mailto:al3x.papangelis@gmail.com), Amazon Alexa AI
 
-**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**<br>
+[**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**](https://sigturk.com/workshop)<br>
 <i><u>Location :</u> LOTUS SUITE 10 </i>
 * [DUYGU ATAMAN](mailto:ataman@nyu.edu), NYU
 * [DENIZ ZEYREK](mailto:dezeyrek@metu.edu.tr), METU
