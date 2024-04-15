@@ -115,10 +115,10 @@ email = ""
 
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
-name="Sun Aixin"
-picture="/assets/images/committee/sun_aixin.jpeg"
-site="https://personal.ntu.edu.sg/axsun/"
-institution="Nanyang Technological University"
+name="Yixin Cao"
+picture="/assets/images/committee/cao_yixin.png"
+site="https://sites.google.com/view/yixin-homepage"
+institution="Singapore Management University"
 email = ""
 %}
 
