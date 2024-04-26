@@ -5,6 +5,8 @@ excerpt: "ACL 2024 Student Volunteer."
 permalink: /calls/volunteers/
 sidebar: 
     nav: "calls"
+toc: True
+toc_sticky: True
 ---
 
 A limited number of student volunteers are needed for the success of ACL 2024. Both online and in-person event volunteers are needed.
