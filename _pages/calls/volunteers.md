@@ -1,6 +1,7 @@
 ---
 title: ACL 2024 Student Volunteer Program
 layout: single
+excerpt: "ACL 2024 Student Volunteer."
 permalink: /calls/volunteers/
 sidebar: 
     nav: "calls"
