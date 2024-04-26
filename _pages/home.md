@@ -15,7 +15,7 @@ More information will be announced soon.
 
 ## News
 
-**The official ACL 2024 website is launched.**
+**ACL 2024 starts to hire student volunteers!**
 {: .text-center .notice--info}
 
 
@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| April 27, 2024 | [Call for Student Volunteers](/calls/volunteers) is posted.
 | Mar 3, 2024 | The information about venue and visa details have been posted.
 | Feb 26, 2024 | Submission link for [Call for System Demonstration](/calls/system_demonstration) is posted.
 | Jan 31, 2024 | [Call for System Demonstration](/calls/system_demonstration) is posted.
