@@ -335,7 +335,7 @@ email = "haofei37@nus.edu.sg"
 
 {% include committee-member.html
 name="Liangming Pan"
-picture="/assets/images/committee/liangming_pan.jpg"
+picture="/assets/images/committee/liangming_pan.png"
 site="http://www.liangmingpan.com/"
 institution="University of California, Santa Barbara"
 email = "liangmingpan@ucsb.edu"
