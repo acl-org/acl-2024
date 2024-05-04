@@ -13,4 +13,8 @@ toc_sticky: True
 Bangkok, Thailand's vibrant capital, is a city of contrasts where traditional meets modern, offering visitors an unforgettable experience. This bustling metropolis is renowned for its ornate temples, such as the majestic Grand Palace and Wat Arun, standing alongside towering skyscrapers and bustling markets. Bangkok is a food lover's paradise, offering an array of culinary delights from street food stalls to upscale restaurants. The city's vibrant street life, rich cultural heritage, and bustling nightlife make it a must-visit destination for travelers seeking to explore the heart of Southeast Asia. Whether you're navigating the colorful canals, exploring the bustling markets, or indulging in the local cuisine, Bangkok promises an adventure at every turn.
 
 ## Conference Venue
-More information will be updated soon
+ACL 2024 will take place in the Centara Grand and Bangkok Convention Centre, Thailand:
+* **Address:** Pathum Wan, Bangkok 10330, Thailand
+* **Map:** [https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8](https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8])
+
+<img src="../assets/images/venue_map.png">
