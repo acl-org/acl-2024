@@ -65,9 +65,9 @@ email = ""
 
 {% include committee-member.html
 name="Thanaruk Theeramunkong"
-picture="/assets/images/committee/person.png"
-site="https://www.siit.tu.ac.th/personnel.php?id=121"
-institution="NECTEC and AIAT"
+picture="/assets/images/committee/thanaruk_theeramunkong.png"
+site="https://www.siit.tu.ac.th/page_bx.php?cid=264&cno=645&show="
+institution="SIIT and AIAT"
 email = ""
 %}
 
