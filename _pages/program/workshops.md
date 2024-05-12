@@ -282,11 +282,22 @@ The following workshops have been accepted for ACL 2024. <br>
 [**ArabicNLP: The Second Arabic Natural Language Processing Conference**](https://arabicnlp2024.sigarab.org/)<br>
 <i><u>Location :</u> LOTUS SUITE 5-6 </i>
 * [Nizar Habash](mailto:nizar.habash@nyu.edu), NYU Abu Dhabi
-* [Mona Diab](mailto:mtdiab@gmail.com), CMU
-* [Houda Bouamor](mailto:ladyhodhod@gmail.com), CMU
+* [Houda Bouamor](mailto:ladyhodhod@gmail.com), Carnegie Mellon University in Qatar
+* [Ramy Eskander](https://www.linkedin.com/in/ramyeskander/), Google, USA
 * [Nadi Tomeh](mailto:nadi.tomeh@gmail.com), Université Sorbonne Paris Nord
-* [Dr. Ahmed Abdelali](mailto:aabdelali@hbku.edu.qa), HBKU
-* [Salam Khalifa](mailto:salam.khalifa@stonybrook.edu), Stony Brook U
+* [Ibrahim Abu Farha](mailto:i.abufarha@sheffield.ac.uk), The University of Sheffield
+* [Ahmed Abdelali](mailto:aabdelali@hbku.edu.qa), QCRI and HBKU
+* [Samia Touileb](mailto:samia.touileb@uib.no), University of Bergen
+* [Injy Hamed](mailto:imh9281@nyu.edu), NYU Abu Dhabi
+* [Yaser Onaizan](https://www.linkedin.com/in/yaser-al-onaizan-1a11294/), SDAIA
+* [Salam Khalifa](mailto:salam.khalifa@stonybrook.edu), Stony Brook University
+* [Bashar Alhafni](mailto:alhafni@nyu.edu), NYU Abu Dhabi
+* [Wissam Antoun](mailto:wissam.antoun@gmail.com), INRIA-Paris
+* [Hatem Haddad](https://www.linkedin.com/in/hatemhaddad), University Manouba
+* [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-0829/), Google
+* [Khalil Mrini](mailto:kmrini@ucsd.edu), TikTok
+* [Rawan Almatham](https://www.linkedin.com/in/rawan-almatham/), KSU ITMSC
+* [Badr AlKhamissi](mailto:badr@khamissi.com), EPFL
 
 [**Natural Language Processing meets Climate Change**](https://nlp4climate.github.io/)<br>
 <i><u>Location :</u> LOTUS SUITE 3 </i>
