@@ -46,8 +46,8 @@ main:
   #- title: "Participants Info"
   #  url: /participants/anti_harassment/
 
-  #- title: "FAQ"
-  #  url: /faq/
+  - title: "FAQ"
+    url: /faq/
 
   #- title: "Ethics"
   #  url: /ethics/faq/

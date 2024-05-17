@@ -10,9 +10,9 @@ sidebar:
 <h2>General Chair</h2>
 {% include committee-member.html
    name="Claire Gardent"
-   picture="/assets/images/committee/Claire_Gardent.jpg"
+   picture="/assets/images/committee/claire_gardent.jpg"
    site="https://members.loria.fr/CGardent/"
-   institution="LORIA, CNRS and Université de Lorraine"
+   institution="CNRS and Université de Lorraine"
    email = ""
 %}
 
@@ -65,7 +65,7 @@ email = ""
 
 {% include committee-member.html
 name="Thanaruk Theeramunkong"
-picture="/assets/images/committee/thanaruk_theeramunkong.png"
+picture="/assets/images/committee/thanaruk_theeramunkong.jpg"
 site="https://www.siit.tu.ac.th/page_bx.php?cid=264&cno=645&show="
 institution="SIIT and AIAT"
 email = ""
@@ -102,7 +102,7 @@ name="Hung-yi Lee"
 picture="/assets/images/committee/hung-yi_lee.jpeg"
 site="https://speech.ee.ntu.edu.tw/~hylee/index.php"
 institution="National Taiwan University"
-email = "tlkagkb93901106@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -294,7 +294,7 @@ email = ""
 name="Aurélie Névéol"
 picture="/assets/images/committee/aurélie_névéol.jpeg"
 site="https://perso.limsi.fr/neveol/"
-institution="CNRS"
+institution="CNRS and Université Paris Saclay"
 email = ""
 %}
 
@@ -309,9 +309,9 @@ email = ""
 
 {% include committee-member.html
 name="Yannick Parmentier"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/yannick_parmentier.jpg"
 site="https://sourcesup.renater.fr/www/tulipa/yannick"
-institution="University of Lorraine"
+institution="Université de Lorraine"
 email = ""
 %}
 
