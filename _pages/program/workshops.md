@@ -28,6 +28,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Leena Mathur](mailto:lmathur@andrew.cmu.edu), Carnegie Mellon University
 * [György Kovács](mailto:gyorgy.kovacs@ltu.se), Luleå University of Technology
 * [Sana al-Azzawi](mailto:sana.al-azzawi@ltu.se), Luleå University of Technology
+* [Laura Biester](mailto:lbiester@middlebury.edu), Middlebury College
 
 [**The 5th International Workshop on Computational Approaches to Historical Language Change**](https://www.changeiskey.org/event/2024-acl-lchange/)<br>
 <i><u>Location :</u> LOTUS SUITE 12 </i>
