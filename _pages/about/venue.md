@@ -17,4 +17,4 @@ ACL 2024 will take place in the Centara Grand and Bangkok Convention Centre, Tha
 * **Address:** Pathum Wan, Bangkok 10330, Thailand
 * **Map:** [https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8](https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8])
 
-<img src="../assets/images/venue_map.png">
+<img src="../assets/images/map-venue.png">
