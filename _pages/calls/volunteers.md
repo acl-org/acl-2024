@@ -39,7 +39,7 @@ The selection process for the Student Volunteer Program will involve a careful e
 
 Applicants for the Student Volunteer Program must be full-time students and should submit the completed application form where we ask a few questions and a one-page CV (resume). Students should make travel arrangements and accommodations independent of the results of the application. Apply via the following form:
 
-- ACL 2024 Bangkok [Volunteer Registration Application] (https://forms.gle/YQHnX9ypYqDJPv3L9)
+- ACL 2024 Bangkok [Volunteer Registration Application](https://forms.gle/YQHnX9ypYqDJPv3L9)
 
 Please **DO NOT REGISTER** for the ACL 2024 Conference until someone has reached out to you or you have received a Congratulatory email confirming your Volunteer Service Acceptance. Once you have received this Acceptance notification you will receive a special link to register in which your registration fees are waived. Additionally, a separate email containing a Volunteer Registration form will be sent to you, in which you can list what volunteer preference task you would like based on your skillset (i.e. registration, volunteer coordinator, poster session liaison etc.). This form must be completed FIRST in order to receive the ACL Conference 2024 LINK to have registration fees waived. If for any reason you are not accepted, the Registrar will work with you to secure early registration fee rates.
 In the case that a student requires reimbursement after the conference for LATE volunteer registration, the student must provide receipt of paid registration fees from debit or bank account (i.e., a business expense report) to the ACL Assistant Director of Events, Megs Haddad <a href="mailto:acl.megshaddad@gmail.com">acl.megshaddad@gmail.com</a>).
