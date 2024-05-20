@@ -209,9 +209,25 @@ email = "mc191@hw.ac.uk"
 {% include committee-member.html
 name="Bing Liu"
 picture="/assets/images/committee/bing_liu.jpeg"
-site="https://www.linkedin.com/in/vbingliu/"
-institution="Meta San Francisco"
-email = ""
+site="http://bingliu.me/"
+institution="Meta AI"
+email = "hadoopit@gmail.com"
+%}
+
+{% include committee-member.html
+name="Zhiyu Zoey Chen"
+picture="/assets/images/committee/Zhiyu_Zoey_Chen.jpg"
+site="https://czyssrs.github.io/"
+institution="University of Texas at Dallas"
+email = "zhiyuc@andrew.cmu.edu"
+%}
+
+{% include committee-member.html
+name="Chen Liang"
+picture="/assets/images/committee/chen_liang.png"
+site="https://crazydonkey200.github.io/"
+institution="Google DeepMind"
+email = "crazydonkey200@gmail.com"
 %}
 
 <h2>Handbook Chairs</h2>
