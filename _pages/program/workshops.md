@@ -5,12 +5,14 @@ excerpt: "ACL 2024 Conference Overview."
 permalink: /program/workshops/
 sidebar: 
     nav: "program"
+toc: True
+toc_sticky: True
 ---
 
 The following workshops have been accepted for ACL 2024. <br>
 <small>More information will be updated soon</small>
 <br>
-<h2>August 15, 2024</h2>
+## August 15, 2024
 
 [**The 11th Workshop on Argument Mining**](https://argmining-org.github.io/2024/)<br>
   <i><u>Location :</u> WORLD BALLROOM B </i>
@@ -162,7 +164,17 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Sandro Pezzelle](mailto:s.pezzelle@uva.nl), University of Amsterdam 
 * [Chen Zhao](mailto:chenz1285@nyu.edu), NYU
 
-<h2>August 16, 2024</h2>
+## August 15-16, 2024
+
+[**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**](https://sigturk.com/workshop)<br>
+<i><u>Location :</u> LOTUS SUITE 10 </i>
+* [DUYGU ATAMAN](mailto:ataman@nyu.edu), NYU
+* [DENIZ ZEYREK](mailto:dezeyrek@metu.edu.tr), METU
+* [JONNE SALEVA](mailto:jonnesaleva@brandeis.edu), BRANDEIS UNI.
+* [SARDANA IVANOVA](mailto:sardana.ivanova@helsinki.fi), UNI. OF HELSINKI
+* [MEHMET OGUZ DERIN](mailto:mehmetoguzderin@mehmetoguzderin.com)
+
+## August 16, 2024
 
 **Workshop on Knowledge-Augmented Methods for Natural Language Processing**<br>
 <i><u>Location :</u> LOTUS SUITE 1-2 </i>
@@ -326,13 +338,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Alon Albalak](mailto:alon_albalak@ucsb.edu), University of California, Santa Barbara
 * [Alexandros Papangelis](mailto:al3x.papangelis@gmail.com), Amazon Alexa AI
 
-[**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**](https://sigturk.com/workshop)<br>
-<i><u>Location :</u> LOTUS SUITE 10 </i>
-* [DUYGU ATAMAN](mailto:ataman@nyu.edu), NYU
-* [DENIZ ZEYREK](mailto:dezeyrek@metu.edu.tr), METU
-* [JONNE SALEVA](mailto:jonnesaleva@brandeis.edu), BRANDEIS UNI. 
-* [SARDANA IVANOVA](mailto:sardana.ivanova@helsinki.fi), UNI. OF HELSINKI
-* [MEHMET OGUZ DERIN](mailto:mehmetoguzderin@mehmetoguzderin.com)
+
 
 
 

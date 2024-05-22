@@ -19,8 +19,8 @@ main:
   - title: "Program"
     url: /program/
 
-  #- title: "Registration"
-  #  url: /registration/
+  - title: "Registration"
+    url: /registration/
 
   #- title: "Blog"
   #  url: /blog/
@@ -28,8 +28,8 @@ main:
   - title: "Committees"
     url: /organization
 
-  #- title: "Sponsors"
-  #  url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
 
   #- title: "Contact"
   #  url: /contact
@@ -58,8 +58,6 @@ program:
     children:
       - title: "Conference Overview"
         url: /program/
-#      - title: "Keynote"
-#        url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
@@ -70,14 +68,22 @@ program:
 #        url: /program/social/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
+  - title: Events
+    children:
+      - title: "Welcome Reception"
+        url: /program/welcome/
+      - title: "Keynotes"
+        url: /program/keynotes/
+      - title: "Social Gala"
+        url: /program/gala/
 
-# sponsors:
-#   - title: Sponsors
-#     children:
+sponsors:
+   - title: Sponsors
+     children:
 #       - title: "Booklet: Rates &amp; Benefits"
 #         url: /sponsors/booklet/
-#      - title: "List of Sponsors"
-#        url: /sponsors/list/
+      - title: "List of Sponsors"
+        url: /sponsors/list/
 
 calls:
   - title: "Call for"
@@ -174,3 +180,9 @@ venue:
 #        url: /calls/style-and-formatting/
 #      - title: "Volunteers"
 #        url: /calls/volunteers/
+
+registration:
+  - title: "Registration"
+    children:
+      - title: "Registration"
+        url: /registration/
