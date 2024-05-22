@@ -84,12 +84,15 @@ The following workshops have been accepted for ACL 2024. <br>
 [**TextGraphs-17: Graph-based Methods for Natural Language Processing**](https://sites.google.com/view/textgraphs2024)<br>
 <i><u>Location :</u> LOTUS SUITE 13 </i>
 * [Dmitry Ustalov](mailto:dmitry.ustalov@gmail.com), JetBrains
-* [Alexander Panchenko](mailto:panchenko.alexander@gmail.com), Skoltech
 * [Arti Ramesh](mailto:aramesh001@ets.org), Educational Testing Services
-* [Elena Tutubalina](mailto:tutubalinaev@gmail.com), AIRI
+* [Alexander Panchenko](mailto:panchenko.alexander@gmail.com), Skoltech
 * [Yanjun Gao](mailto:ygao@medicine.wisc.edu), University of Wisconsin-Madison
+* [Irina Nikishina](mailto:irina.nikishina@uni-hamburg.de), University of Hamburg
 * [Andrey Sakhovskiy](mailto:andrey.sakhovskiy@gmail.com), Skoltech
+* [Elena Tutubalina](mailto:tutubalinaev@gmail.com), Artificial Intelligence Research Institute
+* [Gerald Penn](mailto:gpenn@cs.toronto.edu), University of Toronto
 * [Marco Valentino](mailto:marco.valentino@idiap.ch), Idiap Research Institute
+* [Ricardo Usbeck](mailto:ricardo.usbeck@uni-hamburg.de), University of Hamburg
 
 **KaLLM: Knowledge Graphs and Large Language Models**<br>
 <i><u>Location :</u> LOTUS SUITE 3 </i>
