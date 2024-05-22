@@ -20,7 +20,7 @@ main:
     url: /program/
 
   - title: "Registration"
-    url: /registration/
+    url: /registration
 
   #- title: "Blog"
   #  url: /blog/
@@ -29,7 +29,7 @@ main:
     url: /organization
 
   - title: "Sponsors"
-    url: /sponsors/
+    url: /sponsors
 
   #- title: "Contact"
   #  url: /contact
@@ -43,8 +43,8 @@ main:
   #- title: "Reviewer"
   #  url: /not_available
 
-  #- title: "Participants Info"
-  #  url: /participants/anti_harassment/
+  - title: "Participants Info"
+    url: /participants/
 
   - title: "FAQ"
     url: /faq/
