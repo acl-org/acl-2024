@@ -36,15 +36,14 @@ main:
 
   #- title: "Volunteers"
   #  url: /volunteers 
+  - title: "Participants Info"
+    url: /participants/
 
   - title: "Venue"
     url: /venue/
 
   #- title: "Reviewer"
   #  url: /not_available
-
-  - title: "Participants"
-    url: /participants/
 
   - title: "FAQ"
     url: /faq/
