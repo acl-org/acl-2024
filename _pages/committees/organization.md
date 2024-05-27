@@ -395,7 +395,7 @@ email = ""
 name="Vipas Sutantayawalee"
 picture="/assets/images/committee/vipas_sutantayawalee.jpg"
 site="-"
-institution=""
+institution="Artificial Intelligence Entrepreneur Association of Thailand"
 email = ""
 %}
 
