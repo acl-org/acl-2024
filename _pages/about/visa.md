@@ -23,7 +23,7 @@ toc_sticky: True
 
 ## Visa Exemption and Visa on Arrival
 
-**List of Countries** <small>(as of 1 Dec 2023)</small><br>
+**Summary of Countries and Territories** <small>(as of 1 Dec 2023)</small><br>
 Andorra, Australia, Austria, Bahrain, Belgium, Brunei, Canada, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Mauritius, Monaco, The Netherlands, New Zealand, Norway, Oman, The Philippines, Poland, Portugal, Qatar, San Marino, Saudi Arabia (&VOA), Singapore, Slovak, Slovenia, South Africa, Spain, Sweden, Switzerland, Turkey, the UAE, UK, Ukraine, and USA.
 Brazil, Republic of Korea (South Korea), Peru, Hong Kong, Vietnam<br>
 
