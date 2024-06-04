@@ -66,7 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Jun 04, 2024 | [Call for Subsidies](/calls/subsidies) is posted.
+| Jun 04, 2024 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies) is posted.
 | May 25, 2024 | [Participant](/participants/) information has been posted.
 | May 25, 2024 | [Program](/program/) information has been updated. 
 | May 25, 2024 | [Registration](/registration/) information has been posted. 

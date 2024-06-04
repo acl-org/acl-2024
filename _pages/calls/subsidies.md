@@ -1,5 +1,5 @@
 ---
-title: Subsidies
+title: Diversity and Inclusion Subsidies
 layout: single
 excerpt: "ACL 2024 Diversity and Inclusion Subsidies."
 permalink: /calls/subsidies/
