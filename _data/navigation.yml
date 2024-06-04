@@ -93,10 +93,8 @@ calls:
         url: /calls/student_research_workshop/
       - title: "System Demonstration"
         url: /calls/system_demonstration/
-#      - title: "Industry Track Papers"
-#        url: /calls/industry_track/
-#      - title: "Style Files and Formatting"
-#        url: /calls/style-and-formatting/
+      - title: "Subsidies"
+        url: /calls/subsidies/
       - title: "Volunteers"
         url: /calls/volunteers/
 
