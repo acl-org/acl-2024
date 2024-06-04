@@ -324,6 +324,14 @@ email = ""
 %}
 
 {% include committee-member.html
+name="Valentina Pyatkin"
+picture="/assets/images/committee/valentina_pyatkin.jpg"
+site="https://valentinapy.github.io/"
+institution="Allen Institute for AI"
+email = ""
+%}
+
+{% include committee-member.html
 name="Yannick Parmentier"
 picture="/assets/images/committee/yannick_parmentier.jpg"
 site="https://sourcesup.renater.fr/www/tulipa/yannick"
