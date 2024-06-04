@@ -22,8 +22,8 @@ In exchange for one full day equivalent of work, students receive free registrat
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-- Application Deadline: June 16, 2024
-- Notification of Acceptance: July 3, 2024
+- Application Deadline: July 3, 2024
+- Notification of Acceptance: July 8, 2024
 
 ## Selection Criteria
 
