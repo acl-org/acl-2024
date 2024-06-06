@@ -10,7 +10,7 @@ toc_sticky: True
 ---
 
 ## Instructions
-Applicants should complete the D&I Application form before July 3rd, 2024, 23:59 (AoE).
+Applicants should complete the [D&I Application form](https://forms.office.com/r/azTmNiM2nW) before July 3rd, 2024, 23:59 (AoE).
 
 ## Information
 
@@ -48,12 +48,12 @@ Applications will be evaluated based on the submitted materials and provided jus
 * Notification Deadline: July 9th, 2024, 23:59 (AoE)
    
 ## Notification of acceptance
-Applicants will be notified on (or before) Tuesday, July 9th, 2024, 23:59 (AoE), approximately 10 days before the ACL early registration deadline on Friday, July 19th, 2024. Link to ACL registration: https://2024.aclweb.org/registration)
+Applicants will be notified on (or before) Tuesday, July 9th, 2024, 23:59 (AoE), approximately 10 days before the ACL early registration deadline on Friday, July 19th, 2024. Link to ACL registration: [https://2024.aclweb.org/registration](https://2024.aclweb.org/registration)
    
 We aim to send all the notifications by the deadline above. Please be patient and wait for our email, as we will notify you as soon as possible, no matter the response.
    
 ## Contact
-ACL 2024 Diversity and Inclusion team: acl2024diversity@googlegroups.com
+ACL 2024 Diversity and Inclusion team: [acl2024diversity@googlegroups.com](mailto:acl2024diversity@googlegroups.com)
 * Jing Li, The Hong Kong Polytechnic University
 * Aparna Garimella, Adobe
 * Steven Wilson, Oakland University
