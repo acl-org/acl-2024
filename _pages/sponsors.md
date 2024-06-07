@@ -8,6 +8,10 @@ toc_sticky: True
 ---
 ACL 2024 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
 
+If your organization would like to sponsor the ACL, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20Brochure%20for%20ACL%202024%20Conferences%20-%202024-06-05.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please email Chris Callison-Burch <ccb@upenn.edu> and CC Lily Hoot <lhoot@seas.upenn.edu>.  
+
+The deadline to sponsor **ACL 2024 is June 30.**
+
 ## Diamond
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -34,7 +38,7 @@ ACL 2024 extends its deepest gratitude to all its sponsors. The conference could
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/logo_ko.png" alt="LG AI Research">
     </a>
-    <a href="https://mettai.com" title="Meta AI">
+    <a href="https://ai.facebook.com/" title="Meta AI">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/metaai.png" alt="Meta AI">
     </a>
@@ -62,6 +66,10 @@ ACL 2024 extends its deepest gratitude to all its sponsors. The conference could
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/megagon.png" alt="Megagon">
     </a>
+    <a href="https://www.bytedance.com/en/" title="ByteDance">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/ByteDance.png" alt="ByteDance">
+    </a>
 </figure>
 
 
@@ -70,6 +78,10 @@ ACL 2024 extends its deepest gratitude to all its sponsors. The conference could
     <a href="https://ahrefs.com/" title="Ahrefs">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/ahref.png" alt="Ahrefs">
+    </a>
+    <a href="https://www.cheninstitute.org/prize" title="Chen Institute">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/TCCI.png" alt="Chen Institute">
     </a>
 </figure>
 

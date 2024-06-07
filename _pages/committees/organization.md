@@ -410,7 +410,7 @@ email = ""
 <h2>Sponsorship Chairs</h2>
 {% include committee-member.html
 name="Lluis Marquez"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/luis_marquez.png"
 site="https://www.amazon.science/author/lluis-marquez"
 institution="Amazon"
 email = ""
