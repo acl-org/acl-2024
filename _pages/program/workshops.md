@@ -177,6 +177,16 @@ The following workshops have been accepted for ACL 2024. <br>
 * [SARDANA IVANOVA](mailto:sardana.ivanova@helsinki.fi), UNI. OF HELSINKI
 * [MEHMET OGUZ DERIN](mailto:mehmetoguzderin@mehmetoguzderin.com)
 
+[**The International Conference on Spoken Language Translation (IWSLT)**](https://iwslt.org/2024/)<br>
+<i><u>Location :</u> TBA </i>
+* [Marine Carpuat](mailto:marine@umd.edu), University of Maryland, USA (Program Chair)
+* [Marcello Federico](mailto:marcfede@amazon.com), Amazon, USA (Conference Chair) Federico
+* [Alex Waibel](mailto:alex.waibel@gmail.com), CMU, USA (Conference Chair)
+* [Jan Niehues](mailto:jan.niehues@kit.edu), KIT, Germany (Evaluation Chair)
+* [Sebastian Stüker](mailto:sebastian.stueker@zoom.us), Zoom, Germany (Sponsorship Chair)
+* [Elizabeth Salesky](mailto:elizabeth.salesky@gmail.com), JHU, USA (Publication and Website Chair)
+* [Atul Kr. Ojha](mailto:shashwatup9k@gmail.com), University of Galway, Ireland (Publicity Chair)
+
 ## August 16, 2024
 
 **Workshop on Knowledge-Augmented Methods for Natural Language Processing**<br>

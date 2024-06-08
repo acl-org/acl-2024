@@ -24,6 +24,7 @@ toc_sticky: True
 ## Invitation Letter
 If you would like to receive an invitation letter, please email [us](mailto:thepchai.supnithi@nectec.or.th).
 
+
 ## Visa Exemption and Visa on Arrival
 
 **Summary of Countries and Territories** <small>(as of 1 Dec 2023)</small><br>
