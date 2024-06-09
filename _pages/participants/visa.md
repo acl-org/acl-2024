@@ -1,10 +1,10 @@
 ---
-title: Visa
+title: "Visa"
 layout: single
 excerpt: "ACL 2024 Venue"
-permalink: /venue/visa/
+permalink: /participants/visa/
 sidebar: 
-    nav: "venue"
+    nav: "participants"
 toc: True
 toc_sticky: True
 ---
@@ -22,7 +22,7 @@ toc_sticky: True
 [https://www.thaievisa.go.th/visa/tourist-visa](https://www.thaievisa.go.th/visa/tourist-visa)
 
 ## Invitation Letter
-If you would like to receive an invitation letter, please email [us](mailto:thepchai.supnithi@nectec.or.th).
+If you would like to receive an invitation letter, please fill all required fields in this [form](https://forms.gle/xxvfzi3Q4Py7cr9h6).
 
 
 ## Visa Exemption and Visa on Arrival

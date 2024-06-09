@@ -1,10 +1,10 @@
 ---
-title: Venue
+title: "Venue"
 layout: single
 excerpt: "ACL 2024 Venue"
-permalink: /venue/
+permalink: /participants/venue/
 sidebar: 
-    nav: "venue"
+    nav: "participants"
 toc: True
 toc_sticky: True
 ---

@@ -39,9 +39,6 @@ main:
   - title: "Participants Info"
     url: /participants/
 
-  - title: "Venue"
-    url: /venue/
-
   #- title: "Reviewer"
   #  url: /not_available
 
@@ -147,6 +144,15 @@ participants:
 #        url: /participants/accommodation/
 #       - title: "Social Event"
 #         url: /participants/social/
+  - title: "Venue"
+    children:
+      - title: "Venue"
+        url: /participants/venue/
+      - title: "Visa"
+        url: /participants/visa/
+      - title: "Travel"
+        url: /participants/travel/
+
 
 committees:
   - title: Committees
@@ -160,21 +166,6 @@ committees:
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
       -
-venue:
-  - title: "Information for"
-    children:
-      - title: "Venue"
-        url: /venue/
-      - title: "Visa"
-        url: /venue/visa/
-      - title: "Travel"
-        url: /venue/travel/
-#      - title: "Industry Track Papers"
-#        url: /calls/industry_track/
-#      - title: "Style Files and Formatting"
-#        url: /calls/style-and-formatting/
-#      - title: "Volunteers"
-#        url: /calls/volunteers/
 
 registration:
   - title: "Registration"
