@@ -46,6 +46,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/apple.png" alt="Apple">
     </a>
+    <a href="https://www.newsbreak.com/" title="NewsBreak">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/nb.png" alt="NewsBreak">
+    </a>
 </figure>
 
 ## Platinum
