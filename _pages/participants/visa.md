@@ -38,7 +38,7 @@ Cambodia, Myanmar
 * Indian passport holders , please visit this [link](https://visaguide.world/visa-free-countries/indian-passport/)
 
 ## Visa on Arrival
-Bulgaria, Bhutan, Cyprus, Ethiopia, Fiji, Georgia, Kazakhstan, Malta, Mexico, Nauru, Papua New Guinea, Romania, Russia, Uzbekistan, Vanuatu
+Bulgaria, Bhutan, Cyprus, Ethiopia, Fiji, Georgia, Malta, Mexico, Nauru, Papua New Guinea, Romania, Uzbekistan, Vanuatu
 
 The Thailand Visa On Arrival is only valid for 15 days, after which you have to leave the country; you cannot extend it.
 
