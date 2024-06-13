@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Jun 13, 2024 | Visa Information is updated
 | Jun 06, 2024 | Information about invitation letter is posted in [Visa](/venue/visa/)
 | Jun 04, 2024 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies) is posted.
 | May 25, 2024 | [Participant](/participants/) information has been posted.

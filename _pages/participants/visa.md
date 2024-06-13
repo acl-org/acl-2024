@@ -24,11 +24,24 @@ toc_sticky: True
 ## Invitation Letter
 If you would like to receive an invitation letter, please fill all required fields in this [form](https://forms.gle/xxvfzi3Q4Py7cr9h6).
 
+## Visa Exemption
+**Summary of Countries and Territories** <small>(as of 9 May 2024)</small><br>
+###  Traveling to Thailand without a visa for up to 90 days:
+Argentina, Brazil, Chile, South Korea, Peru
+###  Traveling to Thailand without a visa for up to 30 days:
+Andorra, Australia, Austria, Belgium, Bahrain, Brunei, Canada, China, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, India, (11 May 24 –11 Nov24), Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan (1 Mar 24–31 Aug 24), Kuwait, Latvia, Laos, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Macau, Mauritius, Monaco, Mongolia, The Netherlands, New Zealand, Norway, Oman, The Philippines, Poland, Portugal, Qatar, Russia, San Marino, Saudi Arabia, Singapore, Slovak, Slovenia, Spain, South Africa, Sweden, Switzerland, Taiwan (11 May 24 –11 Nov 24), Turkey, Ukraine, UAE, UK, USA, Vietnam
+###  Traveling to Thailand without a visa for up to 14 days:
+Cambodia, Myanmar
 
-## Visa Exemption and Visa on Arrival
+### Additional Information for 
+* Chinese passport holders, please visit this [link](https://visaguide.world/visa-free-countries/chinese-passport/)
+* Indian passport holders , please visit this [link](https://visaguide.world/visa-free-countries/indian-passport/)
 
-**Summary of Countries and Territories** <small>(as of 1 Dec 2023)</small><br>
-Andorra, Australia, Austria, Bahrain, Belgium, Brunei, Canada, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Mauritius, Monaco, The Netherlands, New Zealand, Norway, Oman, The Philippines, Poland, Portugal, Qatar, San Marino, Saudi Arabia (&VOA), Singapore, Slovak, Slovenia, South Africa, Spain, Sweden, Switzerland, Turkey, the UAE, UK, Ukraine, and USA.
-Brazil, Republic of Korea (South Korea), Peru, Hong Kong, Vietnam<br>
+## Visa on Arrival
+Bulgaria, Bhutan, Cyprus, Ethiopia, Fiji, Georgia, Kazakhstan, Malta, Mexico, Nauru, Papua New Guinea, Romania, Russia, Uzbekistan, Vanuatu
 
-More details, please visit this link [PDF](https://image.mfa.go.th/mfa/0/zE6021nSnu/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/VOA.pdf)
+The Thailand Visa On Arrival is only valid for 15 days, after which you have to leave the country; you cannot extend it.
+
+## More details on Visa Information
+Please visit this [link](https://image.mfa.go.th/mfa/0/zE6021nSnu/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3/VOA.pdf) from Ministry of Foreign Affairs, Kingdom of Thailand
+and [Visa Guide](https://visaguide.world/asia/thailand-visa/who-needs-a-visa-for-thailand/)
