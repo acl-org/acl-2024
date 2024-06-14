@@ -171,11 +171,12 @@ The following workshops have been accepted for ACL 2024. <br>
 
 [**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**](https://sigturk.com/workshop)<br>
 <i><u>Location :</u> TBA </i>
-* [DUYGU ATAMAN](mailto:ataman@nyu.edu), NYU
-* [DENIZ ZEYREK](mailto:dezeyrek@metu.edu.tr), METU
-* [JONNE SALEVA](mailto:jonnesaleva@brandeis.edu), BRANDEIS UNI.
-* [SARDANA IVANOVA](mailto:sardana.ivanova@helsinki.fi), UNI. OF HELSINKI
-* [MEHMET OGUZ DERIN](mailto:mehmetoguzderin@mehmetoguzderin.com)
+* [Duygu Ataman](mailto:ataman@nyu.edu), New York University
+* [Deniz Zeyrek](mailto:dezeyrek@metu.edu.tr), Middle East Technical University
+* [Jonne Saleva](mailto:jonnesaleva@brandeis.edu), Brandeis University
+* [Sardana Ivanova](mailto:sardana.ivanova@helsinki.fi), University of Helsinki
+* [Mehmet Oguz Derin](mailto:mehmetoguzderin@mehmetoguzderin.com)
+* [Abdullatif Köksal](mailto:akoksal@cis.lmu.de), LMU Munich
 
 [**The International Conference on Spoken Language Translation (IWSLT)**](https://iwslt.org/2024/)<br>
 <i><u>Location :</u> TBA </i>
