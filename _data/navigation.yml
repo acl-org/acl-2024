@@ -64,6 +64,12 @@ program:
 #        url: /program/social/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
+  - title: Accepted
+    children:
+      - title: "Accepted Papers"
+        url: /program/papers
+      - title: "Accepted Demo Papers"
+        url: /program/demo_papers/
   - title: Events
     children:
       - title: "Welcome Reception"
