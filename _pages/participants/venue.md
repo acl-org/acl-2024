@@ -10,6 +10,13 @@ toc_sticky: True
 ---
 
 ## About Bangkok
+<p>The Kingdom of Thailand’s capital Bangkok, also known by the locals as “Krung Thep Maha Nakhon” (translated to “city of angels” in Thai language), stands ready to welcome ACL 2024.</p>
+<p>Bangkok has extensive expertise in playing host to countless international gatherings, with smart city development, accommodating infrastructure, world-class congress facilities, a wide variety of accommodations, and gracious Thai hospitality.</p>
+
+<p>For many years, the city has been the most visited city in the world. The dynamism of its society's evolution, tourist attractions, and modernisation is built upon the foundations of a strong cultural identity and historical heritage. Bangkok has truly become a World City.</p>
+<p>Click below to a page by the Tourism Authority of Thailand and explore the myriad options of things to do and places to visit while you are in Bangkok.</p>
+
+[<img src="/assets/images/bangkok/tat.png">](https://www.tourismthailand.org/Search-result/attraction?destination_id=219&sort_by=datetime_updated_desc&page=1&perpage=15&menu=attraction)
 
 ### **Language**
 Thai is considered the official language of Thailand, however English is widely spoken throughout the country.
