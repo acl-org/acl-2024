@@ -68,12 +68,12 @@ The [**Conference Program Schedule**](/program/) is now online.
 </style>
 | Jun 17, 2024 | [Accepted Demo Papers](/program/demo_papers) is posted
 | Jun 13, 2024 | Visa Information is updated
-| Jun 06, 2024 | Information about invitation letter is posted in [Visa](/venue/visa/)
+| Jun 06, 2024 | Information about invitation letter is posted in [Visa](/participants/visa/)
 | Jun 04, 2024 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies) is posted.
 | May 25, 2024 | [Participant](/participants/) information has been posted.
 | May 25, 2024 | [Program](/program/) information has been updated. 
 | May 25, 2024 | [Registration](/registration/) information has been posted. 
-| May 5, 2024 | [Venue](/venue/) updated: The conference will be held at Centara Grand and Bangkok Convention Centre.
+| May 5, 2024 | [Venue](/participants/venue/) updated: The conference will be held at Centara Grand and Bangkok Convention Centre.
 | Apr 27, 2024 | [Call for Student Volunteers](/calls/volunteers) is posted.
 | Mar 3, 2024 | The information about venue and visa details have been posted.
 | Feb 26, 2024 | Submission link for [Call for System Demonstration](/calls/system_demonstration) is posted.
