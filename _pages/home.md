@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Jun 28, 2024 | [Program](/program/) information has been updated.
 | Jun 17, 2024 | [Accepted Demo Papers](/program/demo_papers) is posted
 | Jun 13, 2024 | Visa Information is updated
 | Jun 06, 2024 | Information about invitation letter is posted in [Visa](/participants/visa/)
