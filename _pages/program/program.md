@@ -79,7 +79,7 @@ sidebar:
 | 17:00 – 17:30 | Session 17: Plenary - Closing Session
 {: .news-table}
 
-## Thursday, August 15 ^th^:
+## Thursday, August 15th:
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20em; }
 .news-table tr td:nth-child(2) {width: 55em; }
@@ -107,7 +107,7 @@ sidebar:
 * IWSLT - Day 1 of 2
 
 
-## Friday, August 16^th^:
+## Friday, August 16th:
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20em; }
 .news-table tr td:nth-child(2) {width: 55em; }
