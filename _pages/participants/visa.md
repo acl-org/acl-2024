@@ -21,6 +21,10 @@ toc_sticky: True
 **Questions & Answers on Thai Visa**<br>
 [https://www.thaievisa.go.th/visa/tourist-visa](https://www.thaievisa.go.th/visa/tourist-visa)
 
+## Visa Guide 
+If you need to apply a Visa, for the purpose of visit, please select "Participants of MICE Industry" as below picture <br><br>
+<img src="/assets/images/bangkok/tceb_visa.png">
+
 ## Invitation Letter
 If you would like to receive an invitation letter, please fill all required fields in this [form](https://forms.gle/xxvfzi3Q4Py7cr9h6).
 
