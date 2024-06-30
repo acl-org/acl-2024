@@ -169,7 +169,7 @@ The following workshops have been accepted for ACL 2024. <br>
 
 ## August 15-16, 2024
 
-[**The 1st Annual Meeting of the Special Interest Group on Turkic Languages**](https://sigturk.com/workshop)<br>
+[**First Workshop on Turkic Languages (SIGTURK 2024)**](https://sigturk.com/workshop)<br>
 <i><u>Location :</u> TBA </i>
 * [Duygu Ataman](mailto:ataman@nyu.edu), New York University
 * [Deniz Zeyrek](mailto:dezeyrek@metu.edu.tr), Middle East Technical University
