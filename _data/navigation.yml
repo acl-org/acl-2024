@@ -68,6 +68,8 @@ program:
     children:
       - title: "Accepted Papers"
         url: /program/main_conference_papers/
+      - title: "Accepted Findings Papers"
+        url: /program/finding_papers/
       - title: "Accepted Demo Papers"
         url: /program/demo_papers/
   - title: Events
