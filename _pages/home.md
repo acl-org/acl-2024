@@ -14,10 +14,10 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 20
 More information will be announced soon.
 
 ## News
-
+**[Accepted Main Conference Papers](/program/main_conference_papers) is posted**
+{: .text-center .notice--info}
 **[Registration](/registration/) is officially open**
 {: .text-center .notice--info}
-
 
 
 <!--style>
@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| July 7, 2024 | [Accepted Main Conference Papers](/program/main_conference_papers) is posted
 | Jun 28, 2024 | [Registration](/registration/) is now open.
 | Jun 28, 2024 | [Program](/program/) information has been updated.
 | Jun 17, 2024 | [Accepted Demo Papers](/program/demo_papers) is posted
