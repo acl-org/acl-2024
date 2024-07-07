@@ -103,6 +103,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/etda.png" alt="ETDA">
     </a>
+    <a href="https://www.antgroup.com/en" title="Ant Group">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
+    </a>
 </figure>
 
 ## Bronze
