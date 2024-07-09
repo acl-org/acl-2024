@@ -313,7 +313,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ramy Eskander](https://www.linkedin.com/in/ramyeskander/), Google, USA
 * [Nadi Tomeh](mailto:nadi.tomeh@gmail.com), Université Sorbonne Paris Nord
 * [Ibrahim Abu Farha](mailto:i.abufarha@sheffield.ac.uk), The University of Sheffield
-* [Ahmed Abdelali](mailto:aabdelali@hbku.edu.qa), QCRI and HBKU
+* [Ahmed Abdelali](mailto:aabdelali@hbku.edu.qa), NCAI/SDAIA
 * [Samia Touileb](mailto:samia.touileb@uib.no), University of Bergen
 * [Injy Hamed](mailto:imh9281@nyu.edu), NYU Abu Dhabi
 * [Yaser Onaizan](https://www.linkedin.com/in/yaser-al-onaizan-1a11294/), SDAIA
