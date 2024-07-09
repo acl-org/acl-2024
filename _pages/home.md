@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| July 9, 2024 | Additional document for Visa Application is added at [Visa](/participants/visa/) section
 | July 7, 2024 | [Accepted Main Conference Papers](/program/main_conference_papers) is posted
 | Jun 28, 2024 | [Registration](/registration/) is now open.
 | Jun 28, 2024 | [Program](/program/) information has been updated.

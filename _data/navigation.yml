@@ -66,12 +66,16 @@ program:
 #         url: /program/careerspanel/
   - title: Accepted
     children:
-      - title: "Accepted Papers"
+      - title: "Main Conference Papers"
         url: /program/main_conference_papers/
-      - title: "Accepted Findings Papers"
+      - title: "Findings Papers"
         url: /program/finding_papers/
-      - title: "Accepted Demo Papers"
+      - title: "Demo Papers"
         url: /program/demo_papers/
+      - title: "TACL Papers"
+        url: /program/tacl_papers/
+      - title: "CL Papers"
+        url: /program/cl_papers/
   - title: Events
     children:
       - title: "Welcome Reception"
