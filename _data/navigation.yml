@@ -94,9 +94,9 @@ sponsors:
         url: /sponsors/list/
 
 calls:
-  - title: "Call for"
+  - title: "Call for Papers"
     children:
-      - title: "Main Conference Papers"
+      - title: "Main Conference"
         url: /calls/main_conference_papers/
       - title: "Student Research Workshop"
         url: /calls/student_research_workshop/
@@ -106,6 +106,10 @@ calls:
         url: /calls/subsidies/
       - title: "Volunteers"
         url: /calls/volunteers/
+  - title: "Call for Organizers"
+    children:
+      - title: "D&I Socials & BoF Sessions"
+        url: /calls/bof/
 
 
   #- title: Submission Material
