@@ -384,7 +384,7 @@ toc_sticky: True
 * **Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**<br>*Junfei Wu, Qiang Liu, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang, Tieniu Tan*
 * **LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**<br>*Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura*
 * **Plan, Generate and Complicate: Improving Low-resource Dialogue State Tracking via Easy-to-Difficult Zero-shot Data Augmentation**<br>*Ming Gu, Yan Yang*
-* **DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling**<br>*Shr Quan*
+* **DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling**<br>*Shanghaoran Quan*
 * **Comments as Natural Logic Pivots: Improve Code Generation via Comment Perspective**<br>*Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou*
 * **Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration**<br>*Sunhao Dai, Weihao Liu, Yuqi Zhou, Liang Pang, Rongju Ruan, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen*
 * **Continual Dialogue State Tracking via Reason-of-Select Distillation**<br>*Yujie Feng, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam*
