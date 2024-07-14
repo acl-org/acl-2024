@@ -94,8 +94,7 @@ sidebar:
 ### Workshop List
 * Knowledge Augmentation
 * BioNLP 
-* Wordplay 
-* WANLP 
+* Wordplay
 * Argmining 
 * TeachNLP 
 * CONDA 
@@ -124,6 +123,7 @@ sidebar:
 * IWSLT – Day 2 of 2
 * Structured
 * CMCL
+* ArabicNLP
 * ML4AL
 * TextGraphs
 * C3NLP
