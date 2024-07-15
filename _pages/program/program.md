@@ -92,18 +92,18 @@ sidebar:
 {: .news-table}
 
 ### Workshop List
-* Knowledge Augmentation
-* BioNLP 
-* Wordplay
-* Argmining 
-* TeachNLP 
-* CONDA 
-* Grounded 
+* Argmining
+* BioNLP
+* CONDA
 * Gender Bias
-* Historic Change 
-* PrivateNLP 
-* TurkicNLP – Day 1 of 2 
+* Grounded
+* Historic Change
 * IWSLT - Day 1 of 2
+* Knowledge Augmentation
+* PrivateNLP
+* TeachNLP
+* TurkicNLP – Day 1 of 2
+* Wordplay
 
 
 ## Friday, August 16th:
@@ -119,31 +119,28 @@ sidebar:
 {: .news-table}
 
 ### Workshop List
-* TurkicNLP – Day 2 of 2
-* IWSLT – Day 2 of 2
-* Structured
-* CMCL
-* ML4AL
-* TextGraphs
+* ArabicNLP
+* AVLR
 * C3NLP
+* Chinese LP
+* ClimateNLP
+* CMCL
+* ConvAI
+* FieldMatters
+* Health
+* Human-Centred
+* IWSLT – Day 2 of 2
 * KaLLM
+* KnowLLM
 * Lang + Mol
 * LoResMT
-* Health
-* SDP
-* Human-Centred
-* AVLR
-* KnowLLM
-* Chinese LP
-* WASSA
+* ML4AL
 * REPL4NLP
-* FieldMatters
-* ClimateNLP
-* ConvAI
-* ArabicNLP
-
-
-
+* SDP
+* Structured
+* TextGraphs
+* TurkicNLP – Day 2 of 2
+* WASSA
 
 
 <br><br>
