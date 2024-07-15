@@ -91,7 +91,7 @@ sidebar:
 | 15:30 – 16:00 | Break - Coffee, Tea and Biscuits
 {: .news-table}
 
-### Workshop List
+### Workshop List (Listed in alphabetical order)
 * Argmining
 * BioNLP
 * CONDA
@@ -118,7 +118,7 @@ sidebar:
 | 15:30 – 16:00 | Break - Coffee, Tea and pastry
 {: .news-table}
 
-### Workshop List
+### Workshop List (Listed in alphabetical order)
 * ArabicNLP
 * AVLR
 * C3NLP
