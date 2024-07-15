@@ -176,7 +176,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Jonne Saleva](mailto:jonnesaleva@brandeis.edu), Brandeis University
 * [Sardana Ivanova](mailto:sardana.ivanova@helsinki.fi), University of Helsinki
 * [Mehmet Oguz Derin](mailto:mehmetoguzderin@mehmetoguzderin.com)
-* [Abdullatif Köksal](mailto:akoksal@cis.lmu.de), LMU Munich
+* [Abdullatif Köksal](mailto:akoksal@cis.lmu.de), LMU Munich and MCML
 
 [**The International Conference on Spoken Language Translation (IWSLT)**](https://iwslt.org/2024/)<br>
 <i><u>Location :</u> TBA </i>
