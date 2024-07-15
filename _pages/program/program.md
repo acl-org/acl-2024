@@ -94,8 +94,7 @@ sidebar:
 ### Workshop List
 * Knowledge Augmentation
 * BioNLP 
-* Wordplay 
-* WANLP 
+* Wordplay
 * Argmining 
 * TeachNLP 
 * CONDA 
@@ -141,6 +140,7 @@ sidebar:
 * FieldMatters
 * ClimateNLP
 * ConvAI
+* ArabicNLP
 
 
 
