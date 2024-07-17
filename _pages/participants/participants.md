@@ -6,6 +6,8 @@ permalink: /participants/
 sidebar:
     nav: "participants"
 ---
+Please find all information for joining the conference in the [ACL Handbook](/assets/ACL_Handbook.pdf) from ACL Local Chairs 2024
+
 ## Conference Venue
 <p>ACL 2024 will take place in the Centara Grand and Bangkok Convention Centre, Thailand:
 Centara Grand at CentralWorld is located in the very heart of Bangkok’s shopping and business district. Easily accessible by car and via the BTS SkyTrain, this five-star hotel is the flagship of Centara Hotels & Resorts as it is ideal for those who would like to shop, sightseeing or do business.</p>
@@ -111,7 +113,11 @@ Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, mille
             <td>Grand Deluxe</td>
             <td>THB 2,700 net</td>
             <td>THB 3,700 net</td>
-            <td>THB 4,700 net</td>
+            <td>THB 4,400 net</td>
+        </tr>
+        <tr>
+            <td>Extra Bed </td>
+            <td>THB 900 net</td>
         </tr>
     </tbody>
 </table>
@@ -140,7 +146,7 @@ Please email Ms. Suchanan Puangpang Sales Executive at Centre Point Hotel Pratun
     </tbody>
 </table>
 <br>
-**Moxy Bangkok Ratchaprasong – Reservation [link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1715163983615&key=GRP&app=resvlink)**<br>
+**Moxy Bangkok Ratchaprasong – Reservation [link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1720693284696&key=GRP&app=resvlink)**<br>
 <small>Distance to Centara Grand 600m</small>
 <table>
     <thead>
@@ -160,8 +166,30 @@ Please email Ms. Suchanan Puangpang Sales Executive at Centre Point Hotel Pratun
     <tbody>
         <tr>
             <td>Run of House</td>
-            <td>THB 3,300 net</td>
-            <td>THB 3,600 net</td>
+            <td>THB 3,700 net</td>
+            <td>THB 4,000 net</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+**Grand Diamond Suites Hotel (SHA Plus+) [link](https://www.granddiamondsuites.com/rooms-1)**<br>
+<small>Distance to Centara Grand 700m</small>
+<table>
+    <thead>
+        <tr>
+            <th rowspan="3">Room Type</th>
+            <th colspan="2" style="text-align: center">Room Rates per Night (Net)</th>
+        </tr>
+        <tr>
+            <th>2 Adults</th>
+            <th>3 Adults</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>With Breakfast (15% discount promotion code)</td>
+            <td>THB 2,380 - 2,550</td>
+            <td>THB 3,380 - 3,550</td>
         </tr>
     </tbody>
 </table>
