@@ -82,7 +82,7 @@ program:
       - title: "Keynotes"
         url: /program/keynotes/
       - title: "Panel"
-         url: /program/panel/
+        url: /program/panel/
       - title: "Social Gala"
         url: /program/gala/
 
