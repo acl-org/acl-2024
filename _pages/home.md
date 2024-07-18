@@ -66,7 +66,6 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| July 17, 2024 | [ACL Handbook](/assets/ACL_Handbook.pdf) from ACL Local Chairs is posted.
 | July 11, 2024 | [Call for D&I Socials and BoF Sessions](/calls/bof) is posted.
 | July 9, 2024 | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in [Visa](/participants/visa/#tceb) section
 | July 7, 2024 | [Accepted Main Conference Papers](/program/main_conference_papers) is posted
