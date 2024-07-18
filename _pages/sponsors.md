@@ -50,6 +50,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/nb.png" alt="NewsBreak">
     </a>
+    <a href="https://deepmind.google/" title="Google Deepmind">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/google_deepmind.png" alt="Google Deepmind">
+    </a>
 </figure>
 
 ## Platinum
@@ -78,6 +82,14 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/tceb.png" alt="TCEB">
     </a>
+    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba Cloud">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
+    </a>
+    <a href="https://hr.meituan.com/en" title="Meituan">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/meituan.png" alt="Meituan">
+    </a>
 </figure>
 
 
@@ -95,6 +107,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/kbtg.jpg" alt="KBTG">
     </a>
+    <a href="https://cohere.com/" title="Cohere">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/cohere.png" alt="Cohere">
+    </a>
 </figure>
 
 ## Silver
@@ -107,6 +123,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
     </a>
+    <a href="https://deepauto.ai" title="DeepAuto.ai">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/deepautoai.png" alt="DeepAuto.ai">
+    </a>
 </figure>
 
 ## Bronze
@@ -114,6 +134,14 @@ The deadline to sponsor **ACL 2024 is June 30.**
     <a href="https://babelscape.com/" title="Babelscape">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/babelscape.png" alt="Babelscape">
+    </a>
+    <a href="https://research.adobe.com" title="Adobe">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/adobe.png" alt="Adobe">
+    </a>
+    <a href="https://www.dataoceanai.com" title="Dataocean AI">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/dataoceanai.png" alt="Dataocean AI">
     </a>
 </figure>
 
