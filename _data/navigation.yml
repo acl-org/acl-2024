@@ -62,8 +62,7 @@ program:
 #        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
 #        url: /program/social/
-#       - title: "Careers in NLP Panel"
-#         url: /program/careerspanel/
+
   - title: Accepted
     children:
       - title: "Main Conference Papers"
@@ -82,6 +81,8 @@ program:
         url: /program/welcome/
       - title: "Keynotes"
         url: /program/keynotes/
+      - title: "Panel"
+        url: /program/panel/
       - title: "Social Gala"
         url: /program/gala/
 
@@ -187,4 +188,4 @@ registration:
   - title: "Registration"
     children:
       - title: "Registration"
-        url: /registration/
+        url: /registration

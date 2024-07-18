@@ -16,7 +16,7 @@ More information will be announced soon.
 ## News
 **[Accepted Main Conference Papers](/program/main_conference_papers) is posted**
 {: .text-center .notice--info}
-**[Registration](/registration/) is officially open**
+**[Registration](/registration) is officially open**
 {: .text-center .notice--info}
 
 
