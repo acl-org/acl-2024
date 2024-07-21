@@ -55,7 +55,7 @@ sidebar:
 | 10:30 – 12:00 | Session 8: Oral’s/Posters/ Demo Presentations D
 | 12:00 – 13:00 | Box Lunch provided
 | 12:15 – 13:15 | Session 9: Finding Presentations 3
-| 13:00 – 14:00 | Session 10: Plenary - Business Meeting (all attendees welcome)
+| 13:30 – 14:30 | Session 10: Plenary - Business Meeting (all attendees welcome)
 | 14:30 – 15:30 | Session 11: Plenary - Panel
 | 15:30 – 16:00 | Break - Coffee, Tea and Biscuits
 | 16:00 – 17:30 | Session 12: Oral’s/Posters/ Demo Presentations E
