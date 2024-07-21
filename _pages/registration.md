@@ -30,7 +30,7 @@ Information about various types of financial assistance is included below. It is
 * Attendance to all recorded sessions on demand for at least one month following the meeting
 
 ## Discounted Virtual Registration
-Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. _The application form or direct link (coming soon)_. Criteria for selection for financial aid will include your 
+Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. [Click here for application form](https://forms.office.com/r/eCUZe17D0v). Criteria for selection for financial aid will include your 
 * (a) country of residence
 * (b) employment position
 * (c) monthly income range
@@ -38,6 +38,9 @@ Discounted/sliding scale virtual registration is intended to make ACL events acc
 * (e) special circumstances. 
 
 Authors with accepted papers to the conference do not qualify for this program. Students needing financial assistance can apply for DNI, Volunteer grants. The virtual subsidy is available to those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.
+
+**Deadline:** July 26 (AoE)<br>
+**Expected notification:** Aug 2
 
 ## Tutorial Only or Workshop Only
 **In Person**
