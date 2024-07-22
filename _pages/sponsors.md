@@ -58,38 +58,46 @@ The deadline to sponsor **ACL 2024 is June 30.**
 
 ## Platinum
 <figure class="sponsors-list third">
-    <a href="https://research.ibm.com/" title="IBM Research">
+    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba Cloud">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/ibm.jpeg" alt="IBM Research">
+        <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
     </a>
-    <a href="https://www.scb10x.com/" title="SCB 10X">
+    <a href="https://www.amazon.science/conferences-and-events/acl-2024" title="Amazon">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/scb10x.png" alt="SCB 10X">
+        <img src="/assets/images/sponsors/amazon.png" alt="Amazon">
     </a>
     <a href="https://home.baidu.com/home/index" title="Baidu">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/baidu.png" alt="Baidu">
     </a>
-    <a href="https://megagon.ai/" title="Megagon">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/megagon.png" alt="Megagon">
-    </a>
     <a href="https://www.bytedance.com/en/" title="ByteDance">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/ByteDance.png" alt="ByteDance">
     </a>
-    <a href="https://www.businesseventsthailand.com/en" title="TCEB">
+    <a href="https://research.ibm.com/" title="IBM Research">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/tceb.png" alt="TCEB">
+        <img src="/assets/images/sponsors/ibm.jpeg" alt="IBM Research">
     </a>
-    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba Cloud">
+    <a href="https://megagon.ai/" title="Megagon">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
+        <img src="/assets/images/sponsors/megagon.png" alt="Megagon">
     </a>
     <a href="https://hr.meituan.com/en" title="Meituan">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/meituan.png" alt="Meituan">
     </a>
+    <a href="https://www.oracle.com/artificial-intelligence/?source=:ex:pw:::::ACL24&amp;SC=:ex:pw:::::ACL24&amp;pcode=" title="Oracle">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/oracle.png" alt="Oracle">
+    </a>
+    <a href="https://www.scb10x.com/" title="SCB 10X">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/scb10x.png" alt="SCB 10X">
+    </a>
+    <a href="https://www.businesseventsthailand.com/en" title="TCEB">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/tceb.png" alt="TCEB">
+    </a>   
 </figure>
 
 
@@ -110,6 +118,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
     <a href="https://cohere.com/" title="Cohere">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/cohere.png" alt="Cohere">
+    </a>
+    <a href="https://www.mi.com/us/" title="Xiaomi Group">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/xiaomi.png" alt="Xiaomi Group">
     </a>
 </figure>
 
@@ -142,6 +154,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
     <a href="https://www.dataoceanai.com" title="Dataocean AI">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/dataoceanai.png" alt="Dataocean AI">
+    </a>
+    <a href="https://translated.com/welcome" title="Translated">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/translated.jpg" alt="Translated">
     </a>
 </figure>
 
