@@ -62,13 +62,13 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
     </a>
-    <a href="https://www.amazon.science/conferences-and-events/acl-2024" title="Amazon">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/amazon-1.png" alt="Amazon">
-    </a>
     <a href="https://home.baidu.com/home/index" title="Baidu">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/baidu.png" alt="Baidu">
+    </a>
+    <a href="https://www.amazon.science/conferences-and-events/acl-2024" title="Amazon">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/amazon-1.png" alt="Amazon">
     </a>
     <a href="https://www.bytedance.com/en/" title="ByteDance">
       <div class="dummy-padding"></div>
