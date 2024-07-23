@@ -34,6 +34,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 <figure class="sponsors-list third">
+    <a href="https://machinelearning.apple.com/" title="Apple">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/apple.png" alt="Apple">
+    </a>
     <a href="https://www.lgresearch.ai/" title="LG AI Research">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/logo_ko.png" alt="LG AI Research">
@@ -41,10 +45,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
     <a href="https://ai.facebook.com/" title="Meta AI">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/metaai.png" alt="Meta AI">
-    </a>
-    <a href="https://machinelearning.apple.com/" title="Apple">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/apple.png" alt="Apple">
     </a>
     <a href="https://www.newsbreak.com/about" title="NewsBreak">
       <div class="dummy-padding"></div>
