@@ -161,8 +161,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
     </a>
 </figure>
 
-## Diversity & Inclusion Champion
-
 ## Diversity & Inclusion Ally
 <figure class="sponsors-list third">
     <a href="https://machinelearning.apple.com/" title="Apple">
@@ -170,3 +168,5 @@ The deadline to sponsor **ACL 2024 is June 30.**
         <img src="/assets/images/sponsors/apple.png" alt="Apple">
     </a>
 </figure>
+
+## Local Sponsors
