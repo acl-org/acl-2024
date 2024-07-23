@@ -48,7 +48,7 @@ The deadline to sponsor **ACL 2024 is June 30.**
     </a>
     <a href="https://ai.facebook.com/" title="Meta">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/metaai.png" alt="Meta">
+        <img src="/assets/images/sponsors/meta.png" alt="Meta">
     </a>
     <a href="https://deepmind.google/" title="Google Deepmind">
       <div class="dummy-padding"></div>
