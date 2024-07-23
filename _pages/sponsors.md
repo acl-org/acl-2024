@@ -94,10 +94,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/scb10x.png" alt="SCB 10X">
     </a>
-    <a href="https://www.businesseventsthailand.com/en" title="TCEB">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/tceb.png" alt="TCEB">
-    </a>   
 </figure>
 
 
@@ -111,10 +107,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/TCCI.png" alt="Chen Institute">
     </a>
-    <a href="https://www.kbtg.tech/" title="KBTG">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/kbtg.jpg" alt="KBTG">
-    </a>
     <a href="https://cohere.com/" title="Cohere">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/cohere.png" alt="Cohere">
@@ -127,10 +119,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
 
 ## Silver
 <figure class="sponsors-list third">
-    <a href="https://www.etda.or.th/th/" title="ETDA">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/etda.png" alt="ETDA">
-    </a>
     <a href="https://www.antgroup.com/en" title="Ant Group">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
@@ -170,3 +158,17 @@ The deadline to sponsor **ACL 2024 is June 30.**
 </figure>
 
 ## Local Sponsors
+<figure class="sponsors-list third">
+    <a href="https://www.etda.or.th/th/" title="ETDA">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/etda.png" alt="ETDA">
+    </a>
+    <a href="https://www.kbtg.tech/" title="KBTG">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/kbtg.jpg" alt="KBTG">
+    </a>
+    <a href="https://www.businesseventsthailand.com/en" title="TCEB">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/tceb.png" alt="TCEB">
+    </a>   
+</figure>
