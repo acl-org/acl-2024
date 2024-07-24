@@ -70,6 +70,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/scb10x.png" alt="SCB 10X">
     </a>
+    <a href="https://www.sony.com/en/SonyInfo/technology/Conference/ACL2024/" title="Sony">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/sony.png" alt="Sony">
+    </a>
     <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba Cloud">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/alibaba.png" alt="Alibaba Cloud">
