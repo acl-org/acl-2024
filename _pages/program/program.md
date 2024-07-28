@@ -7,6 +7,8 @@ sidebar:
     nav: "program"
 ---
 
+### Full program on [Underline](https://underline.io/events/466/schedule/embed?timeZone=Asia%2FBangkok&day=2024-08-11T02%3A00%3A00.000Z)
+
 ## Saturday, August 10th:
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20em; }
@@ -33,7 +35,7 @@ sidebar:
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
 | 07:30 – 16:30 | Registration
-| 09:00 – 10:30 | Session 1: Plenary - Opening Session & Keynote TBA
+| 09:00 – 10:30 | Session 1: Plenary - <br> **Keynote Speaker: Sunita Sarawagi** <br> *Does In-Context-Learning Offer the Best Tradeoff in Accuracy, Robustness, and Efficiency for Model Adaptation?*
 | 10:30 – 11:00 | Break - Coffee, Tea and Pastry
 | 11:00 – 12:30 | Session 2: Oral’s/Posters/ Demo Presentations A
 | 12:30 – 14:00 | Box Lunch Provided
@@ -50,16 +52,16 @@ sidebar:
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
 | 08:30 – 16:30 | Registration
-| 09:00 – 10:00 | Session 7: Plenary - Keynote TBA
+| 09:00 – 10:00 | Session 7: Plenary - <br> **Keynote Speaker: Subbarao Kambhampati** <br> *Can LLMs Reason and Plan?*
 | 10:00 – 10:30 | Break - Coffee, Tea and Pastry
 | 10:30 – 12:00 | Session 8: Oral’s/Posters/ Demo Presentations D
 | 12:00 – 13:00 | Box Lunch provided
 | 12:15 – 13:15 | Session 9: Finding Presentations 3
 | 13:30 – 14:30 | Session 10: Plenary - Business Meeting (all attendees welcome)
-| 14:30 – 15:30 | Session 11: Plenary - Panel
+| 14:30 – 15:30 | Session 11: Plenary - Panel Dicussion <br> **Challenges and Opportunities with SEA LLMs** <br> *Sarana Nutanong, VISTEC, Ayu Purwarianti, Bandung Institute of Technology (ITB), Indonesia, William Tjhi, AI Singapore*
 | 15:30 – 16:00 | Break - Coffee, Tea and Biscuits
 | 16:00 – 17:30 | Session 12: Oral’s/Posters/ Demo Presentations E
-| 19:00 – 22:00 | Social Event Dinner (Buffet Dinner & Drink Ticket)
+| 19:00 – 22:00 | Social Event Dinner (Buffet Dinner & Drink Ticket) located at [The Berkeley Hotel Pratunam](https://maps.app.goo.gl/v8sGBVLpz84MPuHL9)
 {: .news-table}
 
 ## Wednesday, August 14th:
@@ -68,8 +70,8 @@ sidebar:
 .news-table tr td:nth-child(2) {width: 55em; }
 </style>
 | 08:30 – 16:30 | Registration
-| 09:00 – 10:00 | Session 13: Plenary - Keynote TBA
-| 10:00 – 10:30 | Break - Coffee, Tea and Pastry)
+| 09:00 – 10:00 | Session 13: Plenary **Keynote Speaker: Barbara Plank** <br> *Are LLMs Narrowing Our Horizon? Let’s Embrace Variation in NLP!*
+| 10:00 – 10:30 | Break - Coffee, Tea and Pastry
 | 10:30 – 12:00 | Session 14: Oral’s/Posters/ Demo Presentations F
 | 12:00 – 13:30 | Box Lunch Provided
 | 12:15 – 13:15 | Session 15 - Finding Presentations 4

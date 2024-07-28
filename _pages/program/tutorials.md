@@ -7,10 +7,35 @@ sidebar:
     nav: "program"
 ---
 
+## Sunday, August 11th:
+<style>
+.news-table tr td:nth-child(1) { font-weight: bold; width: 20em; }
+.news-table tr td:nth-child(2) {width: 55em; }
+</style>
+| 09:00 - 12:30 | Tutorial 1 - 3
+{: .news-table}
+* **Tutorial 1– Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond** <br> <small>Room : Lotus 1-4 (Level 22) </small><br>
+*Jingyuan Sun, and Shaonan Wang, and Zijiao Chen, and Jixing Li, and Marie-Francine Moens*
+* **Tutorial 2 - Automatic and Human-AI Interactive Text Generation (with a focus on Text Simplification and Revision)** <br> <small>Room :  Lotus 5-7 (Level 22)</small><br>
+*Yao Dou, and Philippe Laban, and Claire Gardent, and Wei Xu*
+* **Tutorial 3 - Vulnerabilities of Large Language Models to Adversarial Attacks** <br> <small>Room : World Ballroom B (Level 23)</small><br>
+*Yu Fu, Erfan Shayegan, and Md. Mamun Al Abdullah, and Pedram Zaree, and Nael Abu-Ghazaleh, and Yue Dong*
+
+<style>
+.news-table tr td:nth-child(1) { font-weight: bold; width: 20em; }
+.news-table tr td:nth-child(2) {width: 55em; }
+</style>
+| 14:00 - 17:30 | Tutorial 4 - 6
+{: .news-table}
+* **Tutorial 4 – Computational Expressivity of Neural Language Models** <br> <small>Room: Lotus 1-4 (Level 22) </small><br>
+*Alexandra Butoi and Ryan Cotterell and Anej Svete*
+* **Tutorial 5– Watermarking for Large Language Model** <br> <small>Room: Lotus 5-7 (Level 22)</small><br>
+*Xuandong Zhao, and Yu-Xiang Wang, and Lei Li*
+* **Tutorial 6; Presentation Matters: How to Communicate Science in the NLP Venues and in the Wild?** <br> <small>Room: World Ballroom B (Level 23)</small><br>
+*Sarvnaz Karimi, and Cecile Paris, and Gholamreza Haffari*
+
 <h2>List of Tutorials</h2>
 The following tutorials have been accepted for ACL 2024. <br>
-<small>More information will be updated soon</small>
-<br><br>
 
 **Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond**<br>
   <i>Jingyuan Sun, Shaonan Wang, Zijiao Chen, Jixing Li and Marie-Francine Moens </i>

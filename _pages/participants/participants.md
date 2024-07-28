@@ -11,12 +11,12 @@ Please find all information for joining the conference in the [ACL Handbook](/as
 ## Conference Venue
 <p>ACL 2024 will take place in the Centara Grand and Bangkok Convention Centre, Thailand:
 Centara Grand at CentralWorld is located in the very heart of Bangkok’s shopping and business district. Easily accessible by car and via the BTS SkyTrain, this five-star hotel is the flagship of Centara Hotels & Resorts as it is ideal for those who would like to shop, sightseeing or do business.</p>
-<img src="../assets/images/centara.png">
+<img src="/assets/images/centara.png">
 
 * **Address:** 999/99 Rama 1 Road,Pathumwan Bangkok 10330,Thailand
-* **Map:** [https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8](https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8])
+* **Map:** [https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8](https://maps.app.goo.gl/x42SJgXHTS9zmHMK9)
 
-<img src="../assets/images/map-venue.png">
+<img src="/assets/images/ACL24_Map.jpeg">
 ## Accommodations
 **Host Hotel: Centara Grand (5-stars)**<br>
 Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, millennium-inspired five-star, uptown city-centre hotel with 505 luxury rooms, including 36 suites and 9 World Executive Club floors. Each room boasts individually controlled air-conditioning, a bathroom with large tub and shower, and is beautifully furnished, including a specially designed bed. The rooms also excel on the tech side with easily operated control panels for the lighting and other functions, along with Wi-Fi high-speed internet, flat-screen smart TVs, in-house music, and direct international telephone dialing. Additionally, the rooms have a well-stocked minibar/refrigerator and personal in-room safety box big enough to fit a standard sized laptop.
@@ -28,7 +28,8 @@ Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, mille
 .news-table tr td:nth-child(4) {width: 25%; }
 </style>
 
-**Centara Grand - Reservation [link](https://bit.ly/3Je3fju)**
+**Centara Grand - Reservation [link](https://www.centarahotelsresorts.com/centaragrand/cgcw/accommodation)**<br>
+<small>Discounted rate has expired they can reach out to the to see if any rooms have opened up but currently, they are sold out.</small>
 <table>
     <thead>
         <tr>

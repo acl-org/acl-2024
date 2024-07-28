@@ -127,10 +127,6 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/antgroup.png" alt="Ant Group">
     </a>
-    <a href="https://deepauto.ai" title="DeepAuto.ai">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/deepautoai.png" alt="DeepAuto.ai">
-    </a>
 </figure>
 
 ## Bronze
