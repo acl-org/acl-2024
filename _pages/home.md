@@ -14,9 +14,9 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 20
 More information will be announced soon.
 
 ## News
-**[Accepted Main Conference Papers](/program/main_conference_papers) is posted**
-{: .text-center .notice--info}
 **[Registration](/registration) is officially open**
+{: .text-center .notice--info}
+**Printing order service is officially open at this [link](/participants/printing/)**
 {: .text-center .notice--info}
 
 
@@ -66,6 +66,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| July 28, 2024 | Printing order service is officially open at this [link](/participants/printing/).
 | July 20, 2024 | The application form for [Discounted Virtual Registration](/registration#discounted-virtual-registration) is posted.
 | July 11, 2024 | [Call for D&I Socials and BoF Sessions](/calls/bof) is posted.
 | July 9, 2024 | Tourist-MICE (Letter from Thailand Convention and Exhibition Bureau - TCEB) is available in [Visa](/participants/visa/#tceb) section
