@@ -25,7 +25,7 @@ The following workshops have been accepted for ACL 2024. <br>
 **The Sixth Workshop on Teaching Natural Language Processing** <br>
 <i><u>Location :</u> TBA </i>
 * [Margot Mieskes](mailto:margot.mieskes@h-da.de), University of Applied Sciences Darmstadt
-* [Leonie Weissweiler](mailto:weissweiler@cis.lmu.de), LMU Munich 
+* [Leonie Weissweiler](mailto:weissweiler@cis.lmu.de), LMU Munich and MCML 
 * [Ana Marasovic](mailto:ana.marasovic@utah.edu), University of Utah
 * [Leena Mathur](mailto:lmathur@andrew.cmu.edu), Carnegie Mellon University
 * [György Kovács](mailto:gyorgy.kovacs@ltu.se), Luleå University of Technology
