@@ -27,13 +27,16 @@ The registration spreadsheet will get updated once a day, and not automatically 
 Finding are not required to register their paper or present at the conference. But if they want to attend, they must register.
 
 **Sessions Schedule**
-The schedule for when which sessions papers will be presented is forthcoming.
+We posted the schedule and published it on the Whova app as well. Underline has the most up to date details. Please look inot this link: https://underline.io/events/466/schedule/embed?timeZone=Asia%2FBangkok&day=2024-08-11T14%3A00%3A00.000Z
 
 **Does the presentation recording have to include our faces or can it just be voice overlay on slides?**
 It can just be a voice overlay, you dont have to include your face.
 
 **Can I use google slides instead of microsoft powerpoint?**
 Yes, you can use google slides instead of microsoft powerpoint.
+
+**When "Oral, Poster" is indicated as the presentation format, do I have to do both in-person?**
+Yes, all in-person papers have a poster session. In addition, some in person papers also have oral sessions. The "Oral, Poster" means you have both.
 
 ## About Paper Publication
 **Are changes to author list allowed?**
@@ -56,7 +59,10 @@ Here is the link to the prerecording instructions if you need them: [prerecordi
 Please visit the following link [https://2024.aclweb.org/participants/visa/](https://2024.aclweb.org/participants/visa/) and fill out the form for the invitation letter.
 
 **Can I print my poster on-site?**
-Yes you can print it on-site.
+Yes you can print it on-site. Please look into this page: [https://2024.aclweb.org/participants/printing/](https://2024.aclweb.org/participants/printing/)
+
+**Can we still hang landscape posters?**
+Unfortunately, we can't guarantee that a landscape poster will fit our poster boards, which are meant to take a portrait A0 sized posters.
 
 **I face issues uploading the video, what do I do?**
 Please contact the following email address: ACL2024@underline.io
