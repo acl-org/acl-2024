@@ -16,8 +16,12 @@ Centara Grand at CentralWorld is located in the very heart of Bangkok’s shoppi
 * **Address:** 999/99 Rama 1 Road,Pathumwan Bangkok 10330,Thailand
 * **Map:** [https://maps.app.goo.gl/gmvbSYUox9ZzqQXf8](https://maps.app.goo.gl/x42SJgXHTS9zmHMK9)
 
-<img src="/assets/images/ACL24_Map.jpeg">
+<img src="/assets/images/map-venue.png">
+
 ## Accommodations
+
+<img src="/assets/images/hotel.png">
+
 **Host Hotel: Centara Grand (5-stars)**<br>
 Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, millennium-inspired five-star, uptown city-centre hotel with 505 luxury rooms, including 36 suites and 9 World Executive Club floors. Each room boasts individually controlled air-conditioning, a bathroom with large tub and shower, and is beautifully furnished, including a specially designed bed. The rooms also excel on the tech side with easily operated control panels for the lighting and other functions, along with Wi-Fi high-speed internet, flat-screen smart TVs, in-house music, and direct international telephone dialing. Additionally, the rooms have a well-stocked minibar/refrigerator and personal in-room safety box big enough to fit a standard sized laptop.
 
@@ -28,7 +32,29 @@ Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, mille
 .news-table tr td:nth-child(4) {width: 25%; }
 </style>
 
-**Centara Grand - Reservation [link](https://www.centarahotelsresorts.com/centaragrand/cgcw/accommodation)**<br>
+**Arnoma Grand Bangkok – Reservation [link](https://reservation.travelanium.net/hotelpage/rates/?propertyId=384&onlineId=4&pid=MDgxNDE4Mw%3D%3D&accesscode=ACL2024)**<br>
+<small>Distance to Centara Grand 700m</small>
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Room Type</th>
+            <th colspan="2" style="text-align: center">Room Rates per Night (Net)</th>
+        </tr>
+        <tr>
+            <th>Single/Double Occupancy</th>
+            <th>Double (2) Bed</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deluxe Room</td>
+            <td>THB 3,400 net</td>
+            <td>THB 4,900 net</td>
+        </tr>
+    </tbody>
+</table>
+
+**Centara Grand - Reservation All Booked**<br>
 <small>Discounted rate has expired they can reach out to the to see if any rooms have opened up but currently, they are sold out.</small>
 <table>
     <thead>
@@ -123,27 +149,7 @@ Behind the hotel’s meticulously crafted edifice lies a state-of-the-art, mille
     </tbody>
 </table>
 
-**Arnoma Grand Bangkok – All Booked**<br>
-<small>Distance to Centara Grand 700m</small>
-<table>
-    <thead>
-        <tr>
-            <th rowspan="2">Room Type</th>
-            <th colspan="2" style="text-align: center">Room Rates per Night (Net)</th>
-        </tr>
-        <tr>
-            <th>Single/Double Occupancy</th>
-            <th>Double (2) Bed</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Deluxe Room</td>
-            <td>THB 3,400 net</td>
-            <td>THB 4,900 net</td>
-        </tr>
-    </tbody>
-</table>
+
 <br>
 **Moxy Bangkok Ratchaprasong – All Booked**<br>
 <small>Distance to Centara Grand 600m</small>
