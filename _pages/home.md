@@ -14,7 +14,6 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 20
 <style>
 .local-org { max-width: 150px; padding-right: 0.1em}
 </style>
-<img src="/assets/images/logos/aiat.webp" class="local-org"> <img src="/assets/images/logos/nectec.png" class="local-org" style="max-width: 250px;">
 
 ## News
 **[Registration](/registration) is officially open**

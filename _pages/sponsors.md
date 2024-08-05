@@ -170,5 +170,15 @@ The deadline to sponsor **ACL 2024 is June 30.**
     <a href="https://www.etda.or.th/th/" title="ETDA">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/etda.png" alt="ETDA">
-    </a> 
+    </a>
+    <a href="https://www.aiat.or.th/th/" title="AIAT">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/logos/aiat.webp" alt="AIAT">
+    </a>
+    <a href="https://www.nectec.or.th/th/" title="NECTEC">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/logos/nectec.png" alt="NECTEC">
+    </a>
+
+
 </figure>
