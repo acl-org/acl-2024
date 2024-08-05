@@ -10,8 +10,11 @@ excerpt: "Bangkok, Thailand<br>August 11&ndash;16, 2024"
 
 ## Welcome!
 
-The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.
-More information will be announced soon.
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**. <br>
+<style>
+.local-org { max-width: 150px; padding-right: 0.1em}
+</style>
+<img src="/assets/images/logos/aiat.webp" class="local-org"> <img src="/assets/images/logos/nectec.png" class="local-org" style="max-width: 250px;">
 
 ## News
 **[Registration](/registration) is officially open**
