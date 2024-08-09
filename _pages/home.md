@@ -18,7 +18,7 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 20
 ## News
 **[Registration](/registration) is officially open**
 {: .text-center .notice--info}
-**Printing order service is officially open at this [link](/participants/printing/)**
+**Printing order service will be opened for registration until 9 August, 06.00 pm (local time) **
 {: .text-center .notice--info}
 
 
