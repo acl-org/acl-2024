@@ -183,6 +183,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/logos/nectec.png" alt="NECTEC">
     </a>
+    <a href="https://ai.in.th/en/" title="AI Thailand">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/ai_thailand.png" alt="AI Thailand">
+    </a>
 
 
 </figure>
