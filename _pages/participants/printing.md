@@ -11,7 +11,6 @@ toc_sticky: True
 
 ## Printing Order Services
 **Printing order service will be opened for registration until 9 August, 06.00 pm (local time)**
-Register now at: [here](https://nsc.siit.tu.ac.th/aclreg/regform.php)
 
 ## Complete printing order by (Bangkok, GMT+7)
 <style>
@@ -22,7 +21,6 @@ Register now at: [here](https://nsc.siit.tu.ac.th/aclreg/regform.php)
 | Early Rate    | August 5 (at 11.59 p.m.)	| from August 10 | THB 1,400 (~USD 40)
 | Normal Rate	| August 6 – 9(at 11.59 p.m.) |	from August 11	| THB 2,800 (~USD 80)
 | Onsite Rate	| From August 10 (Please contact the local organizer, 1 day in advanced: Complete order before 11.59 a.m.) **	1 day after completing order	| THB 5,000(~USD 140)
-| Same-day Printing	| Please contact the local organizer |	Subject to the service availability. | THB 7,000 (~USD 200)
 
 ## Printing Policy
 The listed price covers only the poster printing service. The payment will be charged in THB and non-refundable.

@@ -119,6 +119,10 @@ The deadline to sponsor **ACL 2024 is June 30.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/TCCI.png" alt="Chen Institute">
     </a>
+    <a href="https://exa.ai/" title="Exa">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/exa.png" alt="Exa">
+    </a>
 </figure>
 
 ## Silver
