@@ -120,7 +120,7 @@ sidebar:
 * Argmining
 * CMCL
 * Health
-* Historic Change
+* LChange
 * Human-Centred
 * IWSLT - Day 1 of 2
 * KaLLM
