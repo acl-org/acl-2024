@@ -28,9 +28,6 @@ If you need to apply a Visa, for the purpose of visit, please select "Participan
 ### TCEB
 <span style='color:red'>Please prepare letter for Tourist-MICE Visa, or if Thai Embassy asks for a Letter from Thailand Convention and Exhibition Bureau (TCEB), please use this [this document](/assets/Welcome%20letter_ACL%202024.pdf) for clarification <span>
 
-## Invitation Letter
-If you would like to receive an invitation letter, please fill all required fields in this [form](https://forms.gle/xxvfzi3Q4Py7cr9h6).
-
 ## Visa Exemption
 **Summary of Countries and Territories** <small>(as of 9 May 2024)</small><br>
 ###  Traveling to Thailand without a visa for up to 90 days:
