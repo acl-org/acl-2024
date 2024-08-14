@@ -53,7 +53,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Abhilasha Ravichander](mailto:abhilashar@allenai.org), Allen Institute for Artificial Intelligence
 
 [**Natural Language Reasoning and Structured Explanations**](https://nl-reasoning-workshop.github.io/)<br>
-<i><u>Location :</u> Lotus Suite 8 </i>
+<i><u>Location :</u> Lotus Suite 7 </i>
 * [Bhavana Dalvi](mailto:bhavanad@allenai.org), AI2
 * [Greg Durrett](mailto:gdurrett@cs.utexas.edu), UT Austin
 * [Peter Jansen](mailto:pajansen@arizona.edu), UArizona
@@ -97,7 +97,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Ricardo Usbeck](mailto:ricardo.usbeck@uni-hamburg.de), University of Hamburg
 
 **KaLLM: Knowledge Graphs and Large Language Models**<br>
-<i><u>Location :</u> Lotus Suite 15 </i>
+<i><u>Location :</u> Lotus Suite 10 </i>
 * [Russa Biswas](mailto:russa.biswas@hpi.de), Hasso Plattner Institute
 * [Lucie-Amiée Kaffee](mailto:Lucie-Aimee.Kaffee@hpi.de), Hasso Plattner Institute
 * [Oshin Agarwal](mailto:oagarwal3@bloomberg.net), Bloomberg
