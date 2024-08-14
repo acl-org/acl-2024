@@ -22,7 +22,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * Zhexiong Liu, University of Pittsburgh, USA
 * Gabriella Skitalinskaya, Leibniz University Hannover, Germany
 
-**The Sixth Workshop on Teaching Natural Language Processing** <br>
+[**The Sixth Workshop on Teaching Natural Language Processing**](https://sites.google.com/view/teachingnlpacl2024) <br>
 <i><u>Location :</u>Lotus Suite 11</i>
 * [Margot Mieskes](mailto:margot.mieskes@h-da.de), University of Applied Sciences Darmstadt
 * [Leonie Weissweiler](mailto:weissweiler@cis.lmu.de), LMU Munich and MCML 
@@ -96,7 +96,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Marco Valentino](mailto:marco.valentino@idiap.ch), Idiap Research Institute
 * [Ricardo Usbeck](mailto:ricardo.usbeck@uni-hamburg.de), University of Hamburg
 
-**KaLLM: Knowledge Graphs and Large Language Models**<br>
+[**KaLLM: Knowledge Graphs and Large Language Models**](https://kallmworkshop.github.io/kallm2024/)<br>
 <i><u>Location :</u> Lotus Suite 10 </i>
 * [Russa Biswas](mailto:russa.biswas@hpi.de), Hasso Plattner Institute
 * [Lucie-Amiée Kaffee](mailto:Lucie-Aimee.Kaffee@hpi.de), Hasso Plattner Institute
@@ -190,7 +190,7 @@ The following workshops have been accepted for ACL 2024. <br>
 
 ## August 16, 2024
 
-**Workshop on Knowledge-Augmented Methods for Natural Language Processing**<br>
+[**Workshop on Knowledge-Augmented Methods for Natural Language Processing**](https://knowledge-nlp.github.io/acl2024/)<br>
 <i><u>Location :</u> Lotus Suite 7 </i>
 * [Wenhao Yu](mailto:wyu1@nd.edu), University of Notre Dame
 * [Weijia Shi](mailto:swj0419@uw.edu), University of Washington
@@ -289,7 +289,7 @@ The following workshops have been accepted for ACL 2024. <br>
 * [Jason Weston](mailto:jaseweston@gmail.com), Meta
 * [Xingdi Eric Yuan](mailto:eric.yuan@microsoft.com), Microsoft Research
 
-**Proposal of The 10th SIGHAN Workshop on Chinese Language Processing**<br>
+[**Proposal of The 10th SIGHAN Workshop on Chinese Language Processing**](https://sites.google.com/view/sighan2024/home)<br>
 <i><u>Location :</u> Lotus Suite 14 </i>
 * [Kam-Fai Wong](mailto:kfwong@se.cuhk.edu.hk), The Chinese University of Hong Kong
 * [Min Zhang](mailto:zhangminmt@hotmail.com), Harbin Institute of Technology, Shenzhen
