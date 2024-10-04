@@ -62,7 +62,6 @@ program:
 #        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
 #        url: /program/social/
-
   - title: Accepted
     children:
       - title: "Main Conference Papers"
@@ -77,6 +76,10 @@ program:
         url: /program/cl_papers/
       - title: "SRW Papers"
         url: /program/srw_papers/
+  - title: Award
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
   - title: Events
     children:
       - title: "Welcome Reception"
