@@ -316,6 +316,14 @@ email = ""
 
 <h2>Internal Communications</h2>
 {% include committee-member.html
+name="Gael Guibon"
+picture="/assets/images/committee/gael_guibon.jpeg"
+site="https://gguibon.github.io/"
+institution="University of Lorraine"
+email = ""
+%}
+
+{% include committee-member.html
 name="Claudia Borg"
 picture="/assets/images/committee/claudia_borg.jpeg"
 site="https://www.um.edu.mt/profile/claudiaborg"
